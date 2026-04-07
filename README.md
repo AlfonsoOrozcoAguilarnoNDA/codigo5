@@ -18,11 +18,26 @@ Este repositorio constiene herramientas de Código libre GPL para documentar NIA
 
 ## Caso de Uso
 
-El auditor Social, en este caso Alfonso Orozco Aguilar, cliente de 34 años de antiguedad en Sanborns de los azulejos de madero 4 cdmx, le tocó vivir un incidente de completa falta de gobernanza y control de Grupo Cars. El incidente tenía también puntosque por articulo 222 de Código nacional de Procedimientos Penales (Mexico) era necesario reportar a las autoridades y organizar infomración en ejs de presente pasado y futuro, mas aspectos auditoria, NIA violadas, problemas de anélisis bayesiano, consenso Jurídico de IA sobre contratos y anáslis sde sentimientos con tensores , Rag y similares, hizo necesario generar este framework.
+El auditor Social, en este caso Alfonso Orozco Aguilar, cliente de 34 años de antiguedad en Sanborns de los azulejos de madero 4 cdmx, le tocó vivir el 7 de febrero 2026 a las 16:20 horas un incidente de completa falta de gobernanza y control de Grupo Carso. El incidente tenía también puntosque por articulo 222 de Código nacional de Procedimientos Penales (Mexico) era necesario reportar a las autoridades y organizar infomración en ejs de presente pasado y futuro, mas aspectos auditoria, NIA violadas, problemas de anélisis bayesiano, consenso Jurídico de IA sobre contratos y anáslis sde sentimientos con tensores , Rag y similares, hizo necesario generar este framework.
 
-En medio de la documentación se hizuieron vistas cruzadas de Mistery Shopper que mostraron anomalías de higiene y areas de oportunidad tanto de marketing como de capacitación para escuelas, por lo cual se hizo un desglose en 250 slides de powerpoint, mas análisis de caldiad de comida y oportunidades kash.
+En medio de la documentación se hicieron vistas cruzadas de Mistery Shopper que mostraron anomalías de higiene y areas de oportunidad tanto de marketing como de capacitación para escuelas, por lo cual se hizo un desglose en 250 slides de powerpoint, mas análisis de caldiad de comida y oportunidades kash.
 
-El objetivo del software principal es preparar un concentrado de localización de información.
+## Consideraciones.
+
+En COHA: El sistema software que yo hice y no publico aquí genera la Trazabilidad de la Evidencia, ligando el hallazgo directamente al Hash SHA-256 de los audios/videos. Eso cierra la puerta a alegatos de manipulación. En este caso no pongo el módulo porque se prestaría a 1 ) regalar mi trabajo b ) tener que subir la documentación de audios y videos que serían violartoios de datos personales. En https://alfonsoorozco.com/codigo5/ Esta parte de la salida de hashes entregadas a Secretaría de Seguridad Ciudadana.
+
+Sobre el Mystery Shopper: Creando áreas del software similar a FAQs puede permitirse la Auditoría de Seguimiento (Follow-up), lo que prueba la "reincidencia" o "falta de remediación" (un concepto clave en NIAs). Solo que esto lo uso en trabajos de seguminento en práctica privada, por lo cual no voy a poner el dato aquí.
+
+## El objetivo del framework codigo5
+
+El objetivo es la Consolidación Forense de Pruebas para garantizar la integridad de la cadena de custodia informativa, in depnder de localización en word o Excel.
+
+Se busca con el software principal preparar un concentrado de localización de información.
+
+Se adjuntan algunos scripts de análisis bayesiano y similares.
+
+---
+
 Este repositorio contiene el análisis estadístico, forense y de riesgo derivado de dos visitas documentadas a Sanborns Los Azulejos (Av. Francisco I. Madero No. 4, Centro Histórico, CDMX):
 
 | Visita | Fecha | Tipo | Resultado |
