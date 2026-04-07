@@ -79,18 +79,19 @@ Este apartado documenta exclusivamente la **Ruptura Contractual Unilateral** des
 ---
 
 ## 📂 Consenso Jurídico (Carpeta: `/consenso/`)
+⚖️ Resumen de CONSENSO de IA: Incumplimiento Contractual (Civil)
+Este apartado se limita exclusivamente al análisis de la Ruptura Contractual **Unilateral**. Los hallazgos penales, administrativos y laborales (como el caso CANTEC) se detallan por cuerdas separadas en los papeles de trabajo correspondientes.
 
-Se han depositado los dictámenes técnicos que validan la existencia de una relación contractual y su posterior rescisión dolosa por parte del establecimiento.
+Se han depositado los dictámenes técnicos que validan la existencia de una relación contractual y su posterior rescisión dolosa **UNILATERAL** por parte del establecimiento.
 
 | Archivo | Tesis Jurídica Central | Concepto Clave |
 | :--- | :--- | :--- |
-| `consenso/CLAUDE_17febrero.pdf` | **Ruptura de Tracto Sucesivo** | Resolución unilateral injustificada tras 100 min de mora. |
-| `consenso/COHERE_17febrero.pdf` | **Teoría de la Imprevisión y Mala Fe** | Invalidez de la defensa de "evento privado" por falta de notificación. |
-| `consenso/GEMINI_17febrero.pdf` | **Daño Moral y Dignidad** | El "Código 5" como hecho ilícito (Art. 1916 CCDMX). |
-| `consenso/GROK_17febrero.pdf` | **Dolo en la Resolución** | Simulación de "evento privado" para encubrir negativa de servicio. |
-| `consenso/COPILOT_17febrero.pdf` | **Perfeccionamiento y Mora** | Obligación de hacer nacida a las 16:35h con la asignación de mesa. |
-| `consenso/MISTRAL_17febrero.pdf` | **Responsabilidad Objetiva** | El establecimiento responde civilmente por los actos de sus empleados. |
-
+| [CLAUDE_17febrero.pdf](consenso/CLAUDE_17febrero.pdf) | **Ruptura de Tracto Sucesivo** | Resolución unilateral injustificada tras 100 min de mora. |
+| [COHERE_17febrero.pdf](consenso/COHERE_17febrero.pdf) | **Teoría de la Imprevisión y Mala Fe** | Invalidez de la defensa de "evento privado" por falta de notificación. |
+| [GEMINI_17febrero.pdf](consenso/GEMINI_17febrero.pdf) | **Daño Moral y Dignidad** | El "Código 5" como hecho ilícito (Art. 1916 CCDMX). |
+| [GROK_17febrero.pdf](consenso/GROK_17febrero.pdf) | **Dolo en la Resolución** | Simulación de "evento privado" para encubrir negativa de servicio. |
+| [COPILOT_17febrero.pdf](consenso/COPILOT_17febrero.pdf) | **Perfeccionamiento y Mora** | Obligación de hacer nacida a las 16:35h con la asignación de mesa. |
+| [MISTRAL_17febrero.pdf](consenso/MISTRAL_17febrero.pdf) | **Responsabilidad Objetiva** | El establecimiento responde civilmente por los actos de sus empleados. |
 ---
 
 ## 🔬 Pilares del Incumplimiento Civil
