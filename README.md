@@ -102,7 +102,7 @@ Se documenta una ingeniería de costos orientada a la elusión de responsabilida
 #### 📂 Evidencia Documental (Repositorio OSINT)
 Para la revisión de peritos, auditores y autoridades (STPS / IMSS / PROFECO), se adjuntan los hallazgos de fuentes abiertas:
 
-* **Expediente de Auditoría:** [`osint_cantec_imss_mando.zip`]([blob/main/osint_cantec_imss_mando.zip](./osint_cantec_imss_mando.zip)
+* **Expediente de Auditoría:** [Descargar osint_cantec_imss_mando.zip](https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/osint_cantec_imss_mando.zip)
     *(Compendio de 9 archivos: vacantes de mando, perfiles de vigilancia y evidencias de contratación externa detectadas entre el 12 y 17 de febrero).*
 * **Respaldo Forense Digital:** [Registro Inalterable en Web Archive (13/Feb/2026)](https://web.archive.org/web/20260213080705/https://www.jobijoba.mx/oferta-empleo/94/99fc73b07610d251cf13f5abb7f4dc53)
 
