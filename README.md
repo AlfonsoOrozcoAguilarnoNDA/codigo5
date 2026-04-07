@@ -92,6 +92,7 @@ La negligencia de Sanborns al emplear personal mal entrenado, no identificado y 
 * **Otros** Riña con premeditiación alevosía y ventaja (uno contra muchos), asociación delcituosa, etc.
 * **Reales** hay otras responsabilidads por activar código cinco en un cliente que solo pidió hablar con gerente después que no lo atendieron dos hora,s que ya no son tentativa sino mal uso de los servicios de Emergencia, detallado en papelEs de trabajo por 211 quater de Codigo Penal de CDMX y cultura civica de CDMX.
 
+> **Nota sobre Responsabilidad Jurídica:** La responsabilidad directa y solidaria recae plenamente en la razón social **Sanborns Hermanos** y sus subcontratistas. Esta obligación es vinculante independientemente de la razón social, puesto o jerarquía de los agresores, sean estos empleados directos de Grupo Carso o personal externo. En su calidad de **GARANTE**, el grupo empresarial tiene el deber ineludible de salvaguardar la integridad de sus clientes; la ignorancia de la normativa vigente o la delegación de funciones en terceros (como CANTEC) no los exime del cumplimiento de la ley ni de las consecuencias penales y civiles derivadas de la falta de control en sus instalaciones.
 * La responsabilidad directa y solidaria era del personal de la razón social Sanborns Hermanos y sus subcontratas, sin importar la razón social, puesto, mando de los agresores fueran o no empleados de grupo Carso. Carso tenía el deber de GARANTE y la ignorancia de la ley no exime de cumplirla.
 ---
 
