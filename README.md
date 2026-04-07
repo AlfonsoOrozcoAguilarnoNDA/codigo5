@@ -102,6 +102,17 @@ Se documenta una ingeniería de costos orientada a la elusión de responsabilida
 * **Ingresos no Declarados:** El ofrecimiento de **$50 en efectivo** para transporte (turno de cierre) y otros posibles ingresos secundarios no ligados a lo declarado, constituyen una falta de integración al Salario Diario Integrado (**SDI**) ante el IMSS.
 * **Simulación para Prima de Riesgo:** El registro de puestos con nombres discrepantes en distintas sucursales busca atomizar la siniestralidad, pagando primas de riesgo de trabajo artificialmente bajas a costa de la seguridad social del trabajador.
 
+#### 5. Perfil de "Seguridad" vs. Realidad Operativa (Falla Táctica)
+
+Se identifica una discrepancia crítica entre los requisitos de contratación y las funciones de mando ejecutadas en piso dentro de la sucursal **Sanborns Madero**. Mientras que las vacantes operativas solicitan únicamente **secundaria terminada y "sin experiencia"** para tareas de seguridad interna, cacheo y rondines, la operación real muestra una estructura fragmentada:
+
+* **Células de Choque:** Elementos que, por su lenguaje corporal y tácticas de hostigamiento visual (fijación en manos, falta de cerco 360°), sugieren un origen en fuerzas públicas o policiales en retiro ** mal entrenadas**, operando bajo lógicas de intimidación en lugar de seguridad privada profesional.
+* **Personal Precarizado:** Vigilantes que perciben un apoyo informal de **$50 para transporte** en el turno de cierre. Este incentivo, entregado de forma externa a la nómina, es una evidencia directa de la subdeclaración del Salario Diario Integrado (SDI) ante el IMSS.
+
+![Evidencia de Pago Informal y Perfil de Seguridad](50pesossdi.png)
+*Figura 2: Detalle de la vacante para Prevención de Pérdidas en Sanborns Madero, documentando el apoyo económico no integrado al salario. del 13 de feb 2026*
+
+> **Nota de Auditoría:** Con un esquema de contratación basado en "cero experiencia" y sueldos precarizados complementados con pagos informales, la sucursal queda en un estado de vulnerabilidad táctica. Es técnicamente previsible que el personal concentre sus recursos en el hostigamiento de clientes legítimos —donde no perciben riesgo personal— mientras el piso superior permanece desatendido, facilitando los incidentes de robo ya documentados en dicha área.
 ---
 
 #### 📂 Evidencia Documental (Repositorio OSINT)
