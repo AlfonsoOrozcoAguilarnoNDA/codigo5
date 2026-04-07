@@ -62,7 +62,7 @@ Los cálculos son auditables línea por línea.
 
 ## Evidencia digital complementaria
 
-Sitio web con audio, video y fotografías: **https://alfonsoorozco.com/ssc2026/**
+Tenemos Sitio web con audio, video y fotografías que no se publica de momento por evitar obstrucción de la justicia: 
 
 ---
 
