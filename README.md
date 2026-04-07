@@ -92,6 +92,8 @@ Se han depositado los dictámenes técnicos que validan la existencia de una rel
 | [GROK_17febrero.pdf](consenso/GROK_17febrero_2026_compressed.pdf) | **Dolo en la Resolución** | Simulación de "evento privado" para encubrir negativa de servicio. |
 | [COPILOT_17febrero.pdf](consenso/COPILOT_17febrero_2026_compressed.pdf) | **Perfeccionamiento y Mora** | Obligación de hacer nacida a las 16:35h con la asignación de mesa. |
 | [MISTRAL_17febrero.pdf](consenso/MISTRAL_17febrero_2026_compressed.pdf) | **Responsabilidad Objetiva** | El establecimiento responde civilmente por los actos de sus empleados. |
+
+> **📌 Nota Metodológica sobre el Consenso:** > Se designó a **Claude** como el elaborador principal del consenso debido a su capacidad de síntesis doctrinal. Mientras que los demás modelos validaron tipos específicos (civil/penal), Claude integró la **Teoría General de las Obligaciones** para demostrar que la conducta de Sanborns fue un incumplimiento continuo y no un incidente aislado. Revisar su sección 7, es el documento mas extenso.
 ---
 
 ## 🔬 Pilares del Incumplimiento Civil
