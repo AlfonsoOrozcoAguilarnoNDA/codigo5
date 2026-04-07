@@ -3,7 +3,7 @@
 
 **Autor:** Alfonso Orozco Aguilar  
 **Repositorio:** Documentación técnica complementaria a denuncias formales  
-**Última actualización:** Marzo 2026
+**Última actualización:** Abril 2026
 
 ---
 
@@ -22,49 +22,52 @@ Este repositorio contiene el análisis estadístico, forense y de riesgo derivad
 
 - **PROFECO** Folio 0002822-2026 — Estado: **PROCEDENTE**
 - **CONAPRED** — En investigación
-- **SSC CDMX** — Denuncia 16 febrero 2026, derivó visita de inspección DGSPyCI/VS/021/2026 notificado en Oficio SSC-SDI-DGSPyCI-DSP-SSyS-238-2026; en epera de datos para la querella penal. Solo jhan actuado por via administrativa de esfera pública.
+- **SSC CDMX** — Denuncia 16 febrero 2026, derivó visita de inspección DGSPyCI/VS/021/2026 notificado en Oficio SSC-SDI-DGSPyCI-DSP-SSyS-238-2026; en espera de datos para la querella penal. Solo han actuado por vía administrativa de esfera pública.
 - **Grupo Carso** — Notificación sin acuse de recibo 10 febrero 2026
-- **Sanborns** Responde a la queja 538601034 el 13 de marzo de este modo, por correo de Silvia García,  
-![Respuesta en imagen](imagenes/respuestasanborns.png)
+- **Sanborns** — Responde a la queja 538601034 el 13 de marzo de 2026 a través de Silvia García (Asesor):
+
+![Respuesta Sanborns](imagenes/respuestasanborns.png)
+
 ---
 
-## Módulos
+## Módulos de Auditoría (PHP Soberano)
 
-| Archivo | Descripción |
-|---------|-------------|
-| `index.php` | Panel principal de navegación |
-| `bayesiano_marzo.php` | Análisis bayesiano visita marzo 2026 |
-| `arbol_decisiones.php` | Árbol de decisiones — riesgo del cliente |
-| `riesgo_patrimonial.php` | Modelo de riesgo patrimonial con robos documentados |
-| `comparativa.php` | Comparativa estadística ambas visitas |
+| Archivo | Descripción Técnica y Normativa |
+|:--- |:--- |
+| `index.php` | **Panel de Control:** Punto de entrada centralizado que orquesta la visualización de hallazgos y el estado de las denuncias legales. |
+| `bayesiano_marzo.php` | **Análisis de Probabilidad Condicional:** Implementación del Teorema de Bayes para determinar la probabilidad de fallo sistémico en la visita de marzo, basado en 24 anomalías conductuales. |
+| `arbol_decisiones.php` | **Matriz de Riesgo del Cliente:** Algoritmo que evalúa las rutas de escalación ante el hostigamiento, alineado con la valoración de riesgos de la **NIA 315**. |
+| `riesgo_patrimonial.php` | **Modelo de Impacto Económico:** Cuantificación del riesgo derivado de la elusión de controles internos (**NIA 240**) y el impacto de incidentes en el entorno de control (COSO). |
+| `cifra_negra.php` | **Inferencia de Incidentes No Reportados:** Módulo estadístico para estimar la brecha entre quejas oficiales e incidentes reales no denunciados por otros usuarios (**NIA 265**). |
+| `comparativa.php` | **Benchmark de Incumplimiento:** Análisis comparativo de métricas entre ambas visitas, estableciendo el umbral de importancia relativa (**NIA 320**). |
 
 ---
 
 ## Metodología
 
-- **NIA 230** Documentación de auditoría con evidencia contemporánea
-- **NIA 240** Identificación de elusión de controles por dirección
-- **NIA 265** Deficiencias significativas en control interno
-- **NIA 315** Valoración de riesgos de incorrección material
-- **NIA 320** Importancia relativa — umbral cero en discriminación
-- **Marco COSO** Evaluación de entorno de control
-- **Análisis Bayesiano** Probabilidad condicional sobre 24 anomalías conductuales
-- **NOM-251-SSA1-2009** Violaciones a normas de higiene documentadas
+- **NIA 230** Documentación de auditoría con evidencia contemporánea.
+- **NIA 240** Identificación de elusión de controles por dirección.
+- **NIA 265** Deficiencias significativas en control interno.
+- **NIA 315** Valoración de riesgos de incorrección material.
+- **NIA 320** Importancia relativa — umbral cero en discriminación.
+- **Marco COSO** Evaluación de entorno de control.
+- **Análisis Bayesiano** Probabilidad condicional sobre anomalías detectadas.
+- **NOM-251-SSA1-2009** Violaciones a normas de higiene documentadas.
 
 ---
 
-## Reproducibilidad
+## Reproducibilidad y Soberanía Tecnológica
 
-Todo el código puede ser ejecutado por cualquier administrador web con PHP 7.4+.  
-No requiere base de datos. No requiere librerías externas.  
-Los cálculos son auditables línea por línea.
+- **Lenguaje:** PHP 8.x Procedural (Sovereign Code).
+- **Dependencias:** Cero. Sin librerías externas ni frameworks (Anti-NPM).
+- **Ejecución:** Compatible con cualquier entorno LAMP/LEMP estándar. Los cálculos son auditables línea por línea para peritajes técnicos.
 
 ---
 
 ## Evidencia digital complementaria
 
-Tenemos Sitio web con audio, video y fotografías que no se publica de momento por evitar obstrucción de la justicia: 
+Existe un sitio web privado con grabaciones de audio, video y fotografías de alta resolución. Dicho material se mantiene bajo reserva para evitar la obstrucción de la justicia y será presentado únicamente ante las autoridades competentes.
 
 ---
 
-*Este repositorio se mantendrá público hasta la resolución de todos los procesos administrativos activos.*
+*Este repositorio se mantendrá público hasta la resolución de todos los procesos administrativos y judiciales activos.*
