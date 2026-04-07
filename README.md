@@ -62,7 +62,36 @@ Este repositorio contiene el análisis estadístico, forense y de riesgo derivad
 - **Dependencias:** Cero. Sin librerías externas ni frameworks (Anti-NPM).
 - **Ejecución:** Compatible con cualquier entorno LAMP/LEMP estándar. Los cálculos son auditables línea por línea para peritajes técnicos.
 ---
-# 📂 Sección 02: Hallazgo Crítico - Análisis de Siniestralidad y Colusión (6 Meses Retroactivos)
+### 📂 Hallazgo 02-B: Peritaje de Riesgo Táctico y Amenaza de Escalada de Violencia
+
+**Papel de Trabajo: PT-002-B | Análisis de Supervivencia y Capacidad de Respuesta (SSC-CDMX)**
+
+#### 1. Perfil del Auditor: El "Observador Avanzado"
+Este análisis no emana de un cliente convencional, sino de un profesional con **34 años de experiencia técnica** y **20 años en el sector retail de alta gama**, con entrenamiento especializado en **defensa personal**, auditoría y contabilidad , además de 33 añosde experiencia en desarrollo de sistemas y evaluación de personal y análisis de puestos para gobierno federal bajo NDA. Esta formación permitió una lectura de la escena que el personal de Sanborns, debido a su precaria capacitación, no pudo prever ni gestionar.
+
+* **Detección de Amenaza Inmediata:** Ante la ausencia de gafetes identificadores y la actitud de "fijación de manos" por parte de sujetos no uniformados, el diagnóstico táctico inicial fue de **intento de asalto o secuestro** por civiles infiltrados.
+* **Configuración de Agresión en Pandilla:** La movilización coordinada de más de tres sujetos sin identificación hacia una áread donde se encontraba una mujer constituye, bajo análisis de riesgo, una preparación para **asociación delictuosa e intento de lesiones**, y mas con fijación en manos amparada por videos de la afectada, interrumpidos por personal de meseras.
+
+#### 2. La Falla Táctica Crítica: El Flanco Derecho Descubierto
+Mientras el personal de Sanborns (presumiblemente ex-policías con vicios de entrenamiento de "fuerza de choque") concentraba toda su capacidad de coacción en hostigar al acompañante femenino del auditor, cometieron un error de seguridad elemental que puso en riesgo a terceros:
+
+* **Abandono de Perímetro:** Por enfocarse en un hostigamiento ilegal derivado de una falsa alarma ("Código 5"), los elementos de seguridad **abandonaron la vigilancia del flanco derecho de la sucursal**.
+* **Vulnerabilidad Masiva de Civiles:** Se estima que entre **40 y 50 comensales** quedaron en situación de desprotección total ante cualquier amenaza real externa. La "seguridad" de la casa estaba ocupada intimidando a una mujer y a un cliente histórico mientras ignoraba la integridad del resto del establecimiento.
+* **Decisión Táctica de No Intervención:** Debido a que no hubo contacto físico, por técnicas de desescalameniento aplicadas por el aduitor y no por el persona lde Sanborns, El auditor tomó la decisión consciente de **no neutralizar a los tres agresores inmediatos** —pese a contar con la capacidad física y técnica para hacerlo— con el único fin de evitar un escenario de **sangre, lesiones graves y pánico masivo**, priorizando la seguridad de los civiles que Sanborns dejó desprotegidos por su incompetencia. 
+
+#### 3. Implicaciones Penales y Constitucionales
+La negligencia de Sanborns al emplear personal mal entrenado, no identificado y propenso a la provocación creó un escenario donde cualquier respuesta defensiva habría sido legalmente **Legítima Defensa**, pero operativamente una tragedia evitable:
+
+* **Tentativa de Lesiones/Homicidio:** Provocada por la intimidación física y visual hacia los ocupantes de la mesa.
+* **Violación al Art. 16 Constitucional:** Actos de molestia sin mandamiento escrito ejecutados por personal cuya relación laboral es incierta (Caso CANTEC).
+* **Simulación de Autoridad:** Uso de protocolos de seguridad privada sin certificaciones visibles, escalando un conflicto administrativo a un nivel de riesgo de vida.
+* **Otros** Riña con premeditiación alevosía y ventaja (uno contra muchos), asociación delcituosa, etc.
+* **Reales** hay otras responsabilidads por activar código cinco en un cliente que solo pidió hablar con gerente después que no lo atendieron dos hora,s que ya no son tentativa siono mal uso de los servicios de mergencia, detallado en papels de trabajo por 211 quater de Codigo Penal de CDMX y cultura civia de CDMX.
+---
+
+> **Veredicto del Auditor:** La sucursal Madero 4 no solo violó derechos del consumidor; generó un **escenario de riesgo de integridad física grave** por pura incompetencia operativa. La decisión del suscrito de ejercer contención física fue lo único que evitó un evento de nota roja provocado por la propia gerencia del establecimiento. El acercamiento en curso de un personal hacia la mujer del grupo, pudo haber tenid oreacciones de legítima defensa, ya que ni ella ni el auditor eran un peligro, pero el entrenamiento deficiente no les hizo darse cuenta de los riesgos físicos, penales e implicaciones de la prima de riesgo, y eso sin ser relación exhaustiva.
+---
+# 📂 Sección 03: Hallazgo Crítico - Análisis de Siniestralidad y Colusión (6 Meses Retroactivos)
 
 **Papel de Trabajo: PT-002 | Auditoría de Riesgo Operativo y Responsabilidad Solidaria**
 
