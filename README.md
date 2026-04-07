@@ -24,7 +24,7 @@ Este repositorio contiene el análisis estadístico, forense y de riesgo derivad
 - **CONAPRED** — En investigación
 - **SSC CDMX** — Denuncia 16 febrero 2026, derivó visita de inspección DGSPyCI/VS/021/2026 notificado en Oficio SSC-SDI-DGSPyCI-DSP-SSyS-238-2026; en espera de datos para la querella penal. Solo han actuado por vía administrativa de esfera pública.
 - **Grupo Carso** — Notificación sin acuse de recibo 10 febrero 2026
-- **Sanborns** — Responde a la queja 538601034 el 13 de marzo de 2026 a través de Silvia García (Asesor):
+- **Sanborns** — Responde a la queja 538601034 el 13 de marzo de 2026 a través de Silvia García (Asesor), es lo que en auditoría llamamos una respuesta paliativa sin fondo:
 
 ![Respuesta Sanborns](imagenes/respuestasanborns.png)
 
