@@ -300,13 +300,13 @@ Existe un sitio web privado con grabaciones de audio, video y fotografías de al
 
 ---
 **FUNDAMENTO LEGAL DE DIFUSIÓN POR INTERES PUBLICO:**
-Este repositorio constituye un Compendio de Evidencia Pericial vinculado a procedimientos administrativos en curso ante la PROFECO (Folio 0002822-2026) y la SSC (Oficio 238-2026). La información aquí vertida no es una opinión personal, sino la base documental de actos de autoridad firmes y declarados procedentes por SSC , PORFECO y CONAPRED. Cualquier intento de censura o baja del mismo será interpretado como una obstrucción a los procesos de justicia administrativa y una violación al derecho constitucional de petición y denuncia (Art. 8 y 16 Const.).
+Este repositorio constituye un Compendio de Evidencia Pericial vinculado a procedimientos administrativos en curso ante la PROFECO (Folio 0002822-2026) y la SSC (Oficio 238-2026). La información aquí vertida no es una opinión personal, sino la base documental de actos de autoridad firmes y declarados procedentes por SSC , PROFECO y CONAPRED. Cualquier intento de censura o baja del mismo será interpretado como una obstrucción a los procesos de justicia administrativa y una violación al derecho constitucional de petición y denuncia (Art. 8 y 16 Const.).
 
 > **FUNDAMENTO CONSTITUCIONAL DE DIFUSIÓN:**
 > Este repositorio y su contenido se publican en ejercicio irrestricto de los **Artículos 6º y 7º de la Constitución Política de los Estados Unidos Mexicanos**. 
 > 1. Bajo el **Art. 6º**, se ejerce el derecho a la información y la manifestación de ideas sobre un servicio de interés público y seguridad ciudadana.
 > 2. Bajo el **Art. 7º**, se garantiza la inviolabilidad de difundir información técnica y profesional a través de medios digitales, prohibiendo cualquier tipo de censura previa.
-> Al existir procesos administrativos vigentes (PROFECO/SSC), este material constituye un ejercicio de **transparencia ciudadana** y **auditoría social** sobre hechos que la autoridad ya ha calificado como procedentes.
+> Al existir procesos administrativos recibidos por la autoridad como procedentes, y/o vigentes (PROFECO/SSC), este material constituye un ejercicio de **transparencia ciudadana** y **auditoría social** sobre hechos que la autoridad ya ha calificado como procedentes.
 ---
 
 *Este repositorio se mantendrá público hasta la resolución de todos los procesos administrativos y judiciales activos.*
