@@ -78,6 +78,11 @@ https://web.archive.org/web/20260213080705/https://www.jobijoba.mx/oferta-empleo
 
 **Papel de Trabajo: PT-005 | Auditoría de Cumplimiento y Riesgo Táctico**
 
+#### 0. Evidencia Visual de Simulación (Grupo CANTEC)
+La siguiente evidencia documental confirma que la sucursal Madero 4 utiliza una estructura de "nómina espejo". Se emplea la marca **Sanborns** para el reclutamiento de mandos críticos, pero la responsabilidad legal se desplaza a **Grupo CANTEC**.
+
+![Evidencia de Simulación Laboral - CANTEC/Sanborns](subgerentecantec.png)
+*Figura 1: Captura de vacante para Subgerente. Nótese la dualidad de marcas y la delegación de funciones de mando a una razón social externa.*
 #### 1. Invalidez de la Cadena de Mando (Riesgo Penal)
 La documentación técnica extraída mediante inteligencia de fuentes abiertas confirma que la sucursal operaba con una línea de mando fragmentada y delegada en terceros, lo que genera una desconexión legal grave.
 
