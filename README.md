@@ -71,6 +71,32 @@ Este repositorio contiene el análisis estadístico, forense y de riesgo derivad
 > ### 🛡️ Nota sobre Gobernanza Corporativa
 > "Durante el levantamiento de datos y la ejecución de la NIA 315, se observaron inconsistencias materiales en la **identidad patronal** del personal de seguridad y de las vacantes del implicado subgerente de restaurante (empleador identificado como CANTEC). Desde la perspectiva de **Riesgo Operativo**, se señala que esta fragmentación en la contratación debilita la cadena de mando y diluye la responsabilidad civil del establecimiento ante incidentes críticos como el **'Código 5'**. La documentación de este esquema de subcontratación se anexa al presente informe exclusivamente para fines de transparencia y evaluación del entorno de control interno bajo el **Marco COSO**."
 ---
+# 📚 Declaración de Fuentes y Transparencia Metodológica
+## Papel de Trabajo: PT-001 | Auditoría Sanborns Los Azulejos
+
+Para garantizar la integridad del análisis contractual y la objetividad del dictamen, se hace pública la siguiente declaración de fuentes y deslinde de responsabilidad conforme a estándares internacionales de auditoría.
+
+### 1. Fundamentación Doctrinal Primaria
+El análisis de la relación contractual de tracto sucesivo y el perfeccionamiento de las obligaciones en este repositorio se sustenta en la obra:
+* **Autor:** Lic. Leopoldo Aguilar Carvajal.
+* **Obra:** *Segundo Curso de Derecho Civil*.
+* **Editorial:** Porrúa (Referencia obligada en la academia jurídica mexicana: UNAM, UAM).
+
+### 2. Declaración de Parentesco y Expertise
+Se declara formalmente que el autor de la obra citada fue el abuelo materno del auditor responsable, **Alfonso Orozco Aguilar**. Esta relación, lejos de constituir un sesgo, garantiza:
+* **Acceso a Fuentes Originales:** El análisis se basa en la biblioteca jurídica heredada del autor, permitiendo un manejo profundo de la Teoría General de los Contratos.
+* **Estándar de Industria:** La doctrina de Aguilar Carvajal es el estándar en el Derecho Civil Mexicano; omitirla en favor de fuentes menores sería una negligencia profesional.
+
+### 3. Mitigación de Sesgo (Protocolo NIA)
+Conforme a la **NIA 230**, la objetividad del análisis se asegura mediante:
+1.  **Validación Cruzada:** Contraste sistemático de la doctrina con el **Código Civil de la CDMX (2026)**.
+2.  **Consenso Algorítmico:** Verificación de las tesis doctrinales mediante el panel de 6 modelos de IA (Claude, Gemini, Grok, etc.) depositados en `/consenso/`.
+3.  **Transparencia Total:** La familiaridad con la obra permite una aplicación técnica precisa, no una interpretación subjetiva.
+
+---
+
+> **Dictamen de Independencia:** El parentesco con el autor de la fuente doctrinal no afecta la objetividad del peritaje, ya que cualquier analista utilizando la misma doctrina y los mismos hechos documentados (audios/timestamps) llegaría a las mismas conclusiones técnicas.
+---
 # ⚖️ Análisis de Responsabilidad Civil: Incumplimiento de Contrato
 ## Hito de Auditoría: 60 Días (Cierre de Instrucción)
 
