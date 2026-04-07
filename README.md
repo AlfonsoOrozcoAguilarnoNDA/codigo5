@@ -299,6 +299,16 @@ Este análisis civil se mantiene de manera **independiente y autónoma** a los h
 Existe un sitio web privado con grabaciones de audio, video y fotografías de alta resolución. Dicho material se mantiene bajo reserva para evitar la obstrucción de la justicia y será presentado únicamente ante las autoridades competentes.
 
 ---
+### 🔍 MARCO TEÓRICO: LA AUDITORÍA SOCIAL COMO HERRAMIENTA DE CONTROL
+
+Este repositorio se rige bajo los principios de la **Auditoría Social**, definida como:
+
+> "Una herramienta de control ciudadano y de evaluación corporativa que verifica el cumplimiento de objetivos sociales, éticos y de transparencia. Permite a la ciudadanía monitorear la gestión pública (políticas y recursos) o evaluar el impacto de empresas en derechos laborales, humanos y de consumo, promoviendo la rendición de cuentas." 
+> — *Definición técnica validada por Gemini AI.*
+
+Al aplicar esta metodología, el presente análisis no solo documenta una falla en el servicio, sino que evalúa el **Impacto Ético y Social** del protocolo "Código 5" sobre la integridad de los consumidores y la precarización del sector de seguridad privada en México.
+
+---
 **FUNDAMENTO LEGAL DE DIFUSIÓN POR INTERES PUBLICO:**
 Este repositorio constituye un Compendio de Evidencia Pericial vinculado a procedimientos administrativos en curso ante la PROFECO (Folio 0002822-2026) y la SSC (Oficio 238-2026). La información aquí vertida no es una opinión personal, sino la base documental de actos de autoridad firmes y declarados procedentes por SSC , PROFECO y CONAPRED. Cualquier intento de censura o baja del mismo será interpretado como una obstrucción a los procesos de justicia administrativa y una violación al derecho constitucional de petición y denuncia (Art. 8 y 16 Const.).
 
