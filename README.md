@@ -1,9 +1,28 @@
-# Análisis Estadístico y Legal — Sanborns Los Azulejos
+# Framework de Análisis Estadístico y Legal 
 ## Caso: Código 5 / Mystery Shopper / Riesgo Operativo
 
 **Autor:** Alfonso Orozco Aguilar  
-**Repositorio:** Documentación técnica complementaria a denuncias formales  
+**Repositorio:** Incluye Documentación técnica complementaria a denuncias formales  
 **Última actualización:** Abril 2026
+
+## Justificación Metodológica: Respuesta del Auditor (NIA 330)
+
+El desarrollo de este framework y la documentación del "Caso Código 5" no representan una respuesta reactiva, sino una ejecución deliberada de la **Norma Internacional de Auditoría 330 (NIA 330)**, la cual dicta las respuestas del auditor a los riesgos valorados.
+
+### 1. Validación de Control en Tiempo Real (Walkthrough)
+Ante la detección de un colapso de gobernanza el 7 de febrero de 2026, se procedió a neutralizar la asimetría de información mediante una **interpelación técnica dirigida (pregunta trampa de auditoría)** al Gerente de Sucursal. Este procedimiento tuvo como objetivo único validar la presencia —o ausencia— de supervisión jerárquica efectiva, confirmando la inexistencia de controles operativos en el momento del incidente.
+
+### 2. Cumplimiento del Deber Legal (Art. 222 CNPP)
+En estricto cumplimiento del **Artículo 222 del Código Nacional de Procedimientos Penales (México)**, se procedió a la notificación formal ante la Secretaría de Seguridad Ciudadana (SSC). El framework actúa aquí como el repositorio de la **cadena de custodia informativa**, organizando los hechos en una línea de tiempo verificable (Pasado, Presente y Futuro) para su uso por las autoridades competentes.
+
+### 3. Eliminación de Sesgos mediante Peritaje Forense
+Para garantizar la objetividad de la NIA 330, se implementaron mecanismos de validación técnica que superan el testimonio humano:
+* **Análisis Bayesiano:** Para verificar la probabilidad de la narrativa institucional frente a la evidencia física.
+* **Peritaje de Sentimientos (Tensores/IA):** Aplicado para evaluar la neutralidad del auditor durante la crisis y confirmar que la respuesta fue profesional y no emocional.
+* **Consenso Jurídico de IA (RAG):** Para validar la interpretación de contratos y normativas vigentes.
+
+### 4. Conclusión Técnica
+Todo el proceso documentado en este framework es la **respuesta técnica a una situación de crisis de control interno**. La herramienta centraliza cerca de 80 puntos de control para facilitar la exportación de datos hacia una **Cédula de Observaciones y Hallazgos de Auditoría (COHA)**, garantizando que la evidencia sea replicable, segura y auditable bajo estándares internacionales.
 
 ---
 
@@ -24,7 +43,9 @@ En medio de la documentación se hicieron vistas cruzadas de Mistery Shopper que
 
 ## Consideraciones.
 
-En COHA: El sistema software que yo hice y no publico aquí genera la Trazabilidad de la Evidencia, ligando el hallazgo directamente al Hash SHA-256 de los audios/videos. Eso cierra la puerta a alegatos de manipulación. En este caso no pongo el módulo porque se prestaría a 1 ) regalar mi trabajo b ) tener que subir la documentación de audios y videos que serían violartoios de datos personales. En https://alfonsoorozco.com/codigo5/ Esta parte de la salida de hashes entregadas a Secretaría de Seguridad Ciudadana.
+En COHA: El sistema software que yo hice y no publico aquí genera la Trazabilidad de la Evidencia, ligando el hallazgo directamente al Hash SHA-256 de los audios/videos. Eso cierra la puerta a alegatos de manipulación. En este caso no pongo el módulo porque se prestaría a 1 ) regalar mi trabajo b ) tener que subir la documentación de audios y videos que serían violatorios de datos personales. En https://alfonsoorozco.com/codigo5/ Está parte de la salida de hashes entregadas a Secretaría de Seguridad Ciudadana.
+
+**Nota:** Se busca ser auxiliar en Metodología de Auditoría 4.0: Convergencia de modelos probabilísticos y modelos de lenguaje de gran escala (LLMs) para la eliminación de sesgos en el peritaje.
 
 Sobre el Mystery Shopper: Creando áreas del software similar a FAQs puede permitirse la Auditoría de Seguimiento (Follow-up), lo que prueba la "reincidencia" o "falta de remediación" (un concepto clave en NIAs). Solo que esto lo uso en trabajos de seguminento en práctica privada, por lo cual no voy a poner el dato aquí.
 
