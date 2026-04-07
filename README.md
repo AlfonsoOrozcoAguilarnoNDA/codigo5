@@ -22,9 +22,10 @@ Este repositorio contiene el análisis estadístico, forense y de riesgo derivad
 
 - **PROFECO** Folio 0002822-2026 — Estado: **PROCEDENTE**
 - **CONAPRED** — En investigación
-- **SSC CDMX** — Denuncia 16 febrero 2026
-- **Grupo Carso** — Notificación con acuse de recibo 10 febrero 2026
-
+- **SSC CDMX** — Denuncia 16 febrero 2026, derivó visita de inspección DGSPyCI/VS/021/2026 notificado en Oficio SSC-SDI-DGSPyCI-DSP-SSyS-238-2026; en epera de datos para la querella penal. Solo jhan actuado por via administrativa de esfera pública.
+- **Grupo Carso** — Notificación sin acuse de recibo 10 febrero 2026
+- **Sanborns** Responde a la queja 538601034 el 13 de marzo de este modo, por correo de Silvia García,  
+![Respuesta en imagen](imagenes/respuestasanborns.png)
 ---
 
 ## Módulos
