@@ -62,6 +62,44 @@ Este repositorio contiene el análisis estadístico, forense y de riesgo derivad
 - **Dependencias:** Cero. Sin librerías externas ni frameworks (Anti-NPM).
 - **Ejecución:** Compatible con cualquier entorno LAMP/LEMP estándar. Los cálculos son auditables línea por línea para peritajes técnicos.
 ---
+# 📂 Sección 02: Hallazgo Crítico - Análisis de Siniestralidad y Colusión (6 Meses Retroactivos)
+
+**Papel de Trabajo: PT-002 | Auditoría de Riesgo Operativo y Responsabilidad Solidaria**
+
+#### 1. Proyección Estadística de Cifra Negra (Factor x26)
+Desde una perspectiva de auditoría contable, los incidentes detectados mediante **OSINT** en plataformas públicas son solo el indicador visible de un descontrol sistémico.
+* **Cifra Negra Estimada:** En México, se estima que por cada delito denunciado o visibilizado, existen aproximadamente **26 casos que permanecen en la cifra negra** (no reportados o silenciados).
+* **Incidencia en Primer Piso:** Se documentaron 4 casos críticos de robo en la zona del incidente y bar en un periodo de solo 4 meses.
+* **Cálculo de Siniestralidad:** Aplicando el factor de proyección, la sucursal Madero 4 habría promediado más de **100 eventos delictivos** en el semestre previo, evidenciando una **nula** capacidad de control preventivo por parte de la gerencia.
+
+#### 2. Vacío en Estructura de Mando e Indicios de Colusión
+La auditoría de los testimonios de las víctimas sugiere que la falta de protocolos no es accidental, sino funcional a una red de despojo patrimonial.
+* **Orquestación de Distracción:** Testigos describen que el personal (meseras y gerencia) aplicó maniobras de distracción y presión para el pago de la cuenta mientras las tarjetas robadas eran utilizadas en comercios externos (Oxxo/7-Eleven).
+* **Falla del Principio A1:** La rotación constante y el uso de razones sociales externas como **Grupo CANTEC** para mandos medios genera un vacío de autoridad que facilita la colusión del personal de base.
+* **Vínculo con Precarización:** La contratación de personal con secundaria y "sin experiencia" para seguridad interna garantiza una fuerza operativa incapaz de realizar un cerco táctico de 360°, permitiendo que el delito ocurra en presencia de los propios empleados.
+
+#### 3. Responsabilidad Solidaria de Grupo Sanborns / Carso
+Contablemente, la fragmentación de la nómina no exime a la entidad principal de sus obligaciones legales.
+* **Unidad Económica:** Al ser la Casa de los Azulejos un activo de **Grupo Carso**, la empresa es **Responsable Solidaria** por los daños y perjuicios sufridos por los clientes dentro de sus instalaciones.
+* **Negligencia en el Deber de Cuidado:** Mantener un esquema de seguridad basado en pagos informales de **$50 para transporte** y perfiles de "fuerza de choque" constituye una omisión administrativa grave que ha sido debidamente documentada en este repositorio.
+
+---
+
+#### 📂 Repositorio de Evidencia Técnica (Carpeta `robos/`)
+Para facilitar la indexación y consulta de autoridades (STPS, IMSS, PROFECO), los archivos se encuentran organizados en el siguiente paquete:
+
+* **Expediente PARCIAL Consolidado:** [`expediente_robos_6meses.zip`]
+(https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/expediente_robos_6meses.zip)
+
+* Se repite que son los incidentes notados en menos de seis meses de búsqueda NO EXHAUSTIVA y superficial realizado el 13 de feb 2026.
+
+* **Contenido Indexado:**
+    * `/robos/robo0.png` a `robo4.png`: Capturas de incidentes patrimoniales.
+    * `worldtraveler.pdf`: Testimonio detallado de fraude y distracción operativa.
+    * `50pesossdi.png`: Prueba de precarización laboral y riesgo de seguridad social.
+
+> **Advertencia al Consumidor:** Este registro OSINT confirma que **Sanborns Madero 4** opera bajo un esquema de simulación de seguridad, donde los caminos de colusión o negligencia son igualmente perjudiciales para el consumidor. La recurrencia de robos y la colusión sugerida por las víctimas hacen de este establecimiento un punto de alto riesgo patrimonial.
+---
 ### 🚩 Hallazgo 04: Irregularidad en Subcontratación y Cumplimiento (CANTEC)
 
 * **Observación:** Se detectó la presencia y operación de personal uniformado y/o identificado bajo la razón social **"CANTEC"** realizando funciones de seguridad y control operativo dentro de la sucursal. Hay una vacante correspondiente a Subgerente de restaurante y otros puestos, pero cantec es otra empresa de giro diferente.
