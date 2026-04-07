@@ -9,12 +9,50 @@
 
 ## Contexto
 
+Este repositorio constiene herramientas de Código libre GPL para documentar NIAs y puntos específicos de control de un reporte master de auditoría COHA. El framework permite la organización en un solo documento resultado, de fragmentos que nor malmente viven en su propio word.
+
+1 - Cédula de Observaciones y Hallazgos de Auditoría (COHA)
+2 - Informe de Deficiencias Significativas de Control Interno (bajo NIA 265): Es el término técnico exacto cuando un auditor comunica a la administración (en este caso, a Grupo Carso) que sus controles no funcionan.
+3 - Cédula Sumaria de Papeles de Trabajo: Si el PHP consolida los 80-x puntos de control, actúa como una "Sumaria" que agrupa las evidencias individuales (los audios, videos y fotos) en un solo cuerpo legal.
+4 - Dictamen de Auditoría de Cumplimiento: Como estás revisando si cumplen con la NOM-251, la Ley de Seguridad Privada y la Ley de Protección al Consumidor, el resultado es un "Dictamen de Cumplimiento".
+
+## Caso de Uso
+
+El auditor Social, en este caso Alfonso Orozco Aguilar, cliente de 34 años de antiguedad en Sanborns de los azulejos de madero 4 cdmx, le tocó vivir un incidente de completa falta de gobernanza y control de Grupo Cars. El incidente tenía también puntosque por articulo 222 de Código nacional de Procedimientos Penales (Mexico) era necesario reportar a las autoridades y organizar infomración en ejs de presente pasado y futuro, mas aspectos auditoria, NIA violadas, problemas de anélisis bayesiano, consenso Jurídico de IA sobre contratos y anáslis sde sentimientos con tensores , Rag y similares, hizo necesario generar este framework.
+
+En medio de la documentación se hizuieron vistas cruzadas de Mistery Shopper que mostraron anomalías de higiene y areas de oportunidad tanto de marketing como de capacitación para escuelas, por lo cual se hizo un desglose en 250 slides de powerpoint, mas análisis de caldiad de comida y oportunidades kash.
+
+El objetivo del software principal es preparar un concentrado de localización de información.
 Este repositorio contiene el análisis estadístico, forense y de riesgo derivado de dos visitas documentadas a Sanborns Los Azulejos (Av. Francisco I. Madero No. 4, Centro Histórico, CDMX):
 
 | Visita | Fecha | Tipo | Resultado |
 |--------|-------|------|-----------|
 | 1 | 7 febrero 2026 | Cliente regular | Código 5 / Hostigamiento / Sin servicio 2 horas |
 | 2 | 7 marzo 2026 | Mystery Shopper incógnito | Comida fría / Violación NOM-251 / Contaminación cruzada |
+
+
+---
+# Framework "Código 5": Auditoría Social Procedural
+**Versión:** 1.0.0-beta | **Licencia:** GPL v3.0  
+**Stack:** PHP 8.x (Procedural) | MariaDB | Single-File Architecture
+
+## 🛠 Propósito Técnica
+Esta herramienta ha sido desarrollada para centralizar y gestionar cerca de **80 puntos de control** derivados de incidentes de cumplimiento corporativo. El sistema transforma observaciones empíricas en **Papeles de Trabajo** estructurados bajo las **Normas Internacionales de Auditoría (NIA)**.
+
+## 🏗 Arquitectura de Soberanía Digital
+Para garantizar la seguridad, replicabilidad y portabilidad, el framework sigue estos principios:
+* **Soberanía del Código:** Desarrollo en **PHP 8.x Procedural** para facilitar la lectura y auditoría del código fuente.
+* **Sistema de Archivo Único:** Toda la lógica de negocio reside en un solo archivo, eliminando la complejidad de despliegue.
+* **Portabilidad MariaDB:** Gestión de datos optimizada para motores SQL estándar, facilitando la exportación e importación de evidencias.
+* **Dependencias Transparentes:** Uso de **jsDelivr** para recursos de interfaz, garantizando tiempos de carga óptimos sin sacrificar la independencia del servidor.
+
+## 🛡 Mecanismos de Seguridad y Control
+* **Filtro de Acceso:** Implementación de control por **Dirección IP** para restringir la manipulación de los datos de auditoría.
+* **Integridad de Datos:** Diseñado para almacenar el **Reporte Master de Auditoría**, facilitando la localización inmediata de hallazgos para su exportación a formatos documentales (Word/PDF) o peritajes legales.
+* **Enfoque NIA:** Estructura de base de datos diseñada para cumplir con NIA 230 (Documentación) y NIA 265 (Comunicación de Deficiencias).
+
+## 🚀 Replicabilidad
+El lenguaje y stack se eligen deliberadamente por su ubicuidad. Cualquier auditor social puede desplegar esta herramienta en entornos locales o servidores estándar en cuestión de minutos.
 
 ---
 
