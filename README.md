@@ -70,6 +70,45 @@ Este repositorio contiene el análisis estadístico, forense y de riesgo derivad
 
 * **CANTEC:** "La utilización de reclutamiento de personal de una razón social ajena al giro (CANTEC) no solo constituye una falta administrativa, sino que activa la Responsabilidad Solidaria del beneficiario del servicio (Sanborns) ante cualquier daño civil o penal causado por dicho personal (Art. 15 LFT)."
 ---
+
+### 🔍 Hallazgo 05: Análisis POSINT - Invalidez de Póliza y Estructura de "Choque"
+
+Fuente documental externa :
+https://web.archive.org/web/20260213080705/https://www.jobijoba.mx/oferta-empleo/94/99fc73b07610d251cf13f5abb7f4dc53
+
+**Papel de Trabajo: PT-005 | Auditoría de Cumplimiento y Riesgo Táctico**
+
+#### 1. Invalidez de la Cadena de Mando (Riesgo Penal)
+La documentación técnica extraída mediante inteligencia de fuentes abiertas confirma que la sucursal operaba con una línea de mando fragmentada y delegada en terceros, lo que genera una desconexión legal grave.
+
+* **Delegación Irregular de Mando:** El uso de la razón social **Grupo CANTEC** para contratar subgerentes con facultades de "coordinación de equipo" y "planeación de horarios" evidencia una transferencia de funciones esenciales del objeto social de Sanborns a un tercero.
+* **Usurpación de Funciones:** Si un empleado de una empresa externa (CANTEC) ejecutó o instruyó el hostigamiento del "Código 5", se configura una extralimitación de facultades. Dado que el mando previo parece haber sido removido días antes (vacante de Jefe de Piso publicada el 12 de febrero), el incidente ocurrió en un vacío de control legal y operativo.
+* **Conflicto en Seguros (Caso Inbursa):** Normalmente, un incidente de este tipo se reportaría a la AMIS y a la aseguradora. Sin embargo, al ser **Inbursa** la probable aseguradora, existe un conflicto de interés que permite omitir avisos de riesgo. Si el personal (ej. Emiliano Pérez Pérez) realizaba cobros o tareas de seguridad sin el perfil de puesto o la nómina correcta, la póliza queda **técnicamente nula** ante cualquier reclamo de responsabilidad civil.
+
+#### 2. Deficiencias Tácticas: El Cerco de 360° Inexistente
+El análisis de la falta de protocolos de seguridad se explica por una formación deficiente, posiblemente ligada a elementos que operan bajo lógicas de fuerzas públicas en retiro (ex-policías), inconsistentes con los estándares de seguridad privada corporativa.
+
+* **Fallas de Vigilancia:** Se detectaron errores críticos de visión. El personal se enfoca en "hostigamiento", manejo visual a las manos" y seguimiento directo, perdiendo el **cerco de seguridad de 360 grados**. Esta negligencia táctica explica por qué el piso superior mantiene registros de robos a clientes a pesar de la agresiva vigilancia sobre comensales legítimos.
+* **Perfil de "Fuerza de Choque":** La contratación de personal "Sin Experiencia" o "Practicantes" para seguridad interna sugiere que no son vigilantes certificados, sino elementos de choque entrenados para la intimidación, careciendo de criterio legal para gestionar conflictos.
+
+#### 3. Elusión de Cargas Sociales (SDI Falso)
+Se documenta una ingeniería de costos orientada a la elusión de responsabilidades fiscales y de seguridad social:
+
+* **Ingresos no Declarados:** El ofrecimiento de **$50 en efectivo** para transporte (turno de cierre) y otros posibles ingresos secundarios no ligados a lo declarado, constituyen una falta de integración al Salario Diario Integrado (**SDI**) ante el IMSS.
+* **Simulación para Prima de Riesgo:** El registro de puestos con nombres discrepantes en distintas sucursales busca atomizar la siniestralidad, pagando primas de riesgo de trabajo artificialmente bajas a costa de la seguridad social del trabajador.
+
+---
+
+#### 📂 Evidencia Documental (Repositorio OSINT)
+Para la revisión de peritos, auditores y autoridades (STPS / IMSS / PROFECO), se adjuntan los hallazgos de fuentes abiertas:
+
+* **Expediente de Auditoría:** [`osint_cantec_imss_mando.zip`](#)
+    *(Compendio de 9 archivos: vacantes de mando, perfiles de vigilancia y evidencias de contratación externa detectadas entre el 12 y 17 de febrero).*
+* **Respaldo Forense Digital:** [Registro Inalterable en Web Archive (13/Feb/2026)](https://web.archive.org/web/20260213080705/https://www.jobijoba.mx/oferta-empleo/94/99fc73b07610d251cf13f5abb7f4dc53)
+
+> **Veredicto Técnico del Auditor:** Este análisis **superficial** POSINT demuestra que la sucursal Madero 4 al 7 de febrero 2026 es una vulnerabilidad crítica para Grupo Carso. La falta de protocolos, el uso de personal externo para funciones de mando y la elusión de riesgos sociales dejan a la empresa en un estado de **indefensión jurídica total**.
+
+---
 > ### 🛡️ Nota sobre Gobernanza Corporativa
 > "Durante el levantamiento de datos y la ejecución de la NIA 315, se observaron inconsistencias materiales en la **identidad patronal** del personal de seguridad y de las vacantes del implicado subgerente de restaurante (empleador identificado como CANTEC). Desde la perspectiva de **Riesgo Operativo**, se señala que esta fragmentación en la contratación debilita la cadena de mando y diluye la responsabilidad civil del establecimiento ante incidentes críticos como el **'Código 5'**. La documentación de este esquema de subcontratación se anexa al presente informe exclusivamente para fines de transparencia y evaluación del entorno de control interno bajo el **Marco COSO**."
 ---
