@@ -150,6 +150,20 @@ El lenguaje y stack se eligen deliberadamente por su ubicuidad. Cualquier audito
 - **Dependencias:** Cero. Sin librerías externas ni frameworks (Anti-NPM).
 - **Ejecución:** Compatible con cualquier entorno LAMP/LEMP estándar. Los cálculos son auditables línea por línea para peritajes técnicos.
 ---
+### 📂 Documentación del Análisis KASH
+
+| Documento | Descripción | Enlace de Acceso (RAW) |
+| :--- | :--- | :--- |
+| **Resumen Ejecutivo KASH** | Análisis estratégico de alta jerarquía diseñado para la **Dirección General** y el Comité de Riesgos. Sintetiza los hallazgos críticos bajo la norma **NIA 265**. | [📥 Descargar PDF](https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/Analisis_KASH_Ejecutivo.pdf) |
+| **Análisis KASH - Versión Máster** | Documento técnico detallado para el **Punto P06.1** del expediente máster. Incluye evidencia forense, análisis bayesiano y cumplimiento de las **NIA 230, 240, 315 y 500**. | [📥 Descargar PDF](https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/Analisis_KASH_Formalizado.pdf) | En preparacion.
+
+---
+
+### 🔗 Enlaces Directos para Integración
+
+* **Ejecutivo:** `https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/Analisis_KASH_Ejecutivo.pdf`
+* **Máster:** `https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/KIMI_REPORTE_DE_PROBLEMAS_KASH.pdf`
+---
 ### 📂 Hallazgo 02-B: Peritaje de Riesgo Táctico y Amenaza de Escalada de Violencia
 
 **Papel de Trabajo: PT-002-B | Análisis de Supervivencia y Capacidad de Respuesta (SSC-CDMX)**
