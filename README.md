@@ -28,12 +28,26 @@ Todo el proceso documentado en este framework es la **respuesta técnica a una s
 
 ## Contexto
 
-Este repositorio constiene herramientas de Código libre GPL para documentar NIAs y puntos específicos de control de un reporte master de auditoría COHA. El framework permite la organización en un solo documento resultado, de fragmentos que nor malmente viven en su propio word.
+Este repositorio constiene herramientas de Código libre GPL para documentar NIAs y puntos específicos de control de un reporte master de auditoría COHA. El framework permite la organización en un solo documento resultado, de fragmentos que normalmente viven en su propio word.
 
 - 1 - Cédula de Observaciones y Hallazgos de Auditoría (COHA)
 - 2 - Informe de Deficiencias Significativas de Control Interno (bajo NIA 265): Es el término técnico exacto cuando un auditor comunica a la administración (en este caso, a Grupo Carso) que sus controles no funcionan.
 - 3 - Cédula Sumaria de Papeles de Trabajo: Si el PHP consolida los 80-x puntos de control, actúa como una "Sumaria" que agrupa las evidencias individuales (los audios, videos y fotos) en un solo cuerpo legal.
-- 4 - Dictamen de Auditoría de Cumplimiento: Como estás revisando si cumplen con la NOM-251, la Ley de Seguridad Privada y la Ley de Protección al Consumidor, el resultado es un "Dictamen de Cumplimiento".
+- 4 - Dictamen de Auditoría de Cumplimiento: Como se está revisando si se cumplen una norma, en este caso con la NOM-251 (higiene), la Ley de Seguridad Privada y la Ley de Protección al Consumidor, el resultado es un "Dictamen de Cumplimiento".
+
+- Esa revisión sale de manera secundaria en mistery shopper de 7 de marzo. Sin embargo, el entorno de robos encontrados pone en riesgo a los empleados mismos y a los clientes, y el cerco por personal no identificado esdemanera transitiva riesgo para empleados, cliente afectado (auditor) y los 55 elementos de consenso.
+
+- PÁRRAFO DE ÉNFASIS (NIA 706)
+"Llamamos la atención sobre la Nota de Hallazgo relativa a la seguridad física en la sucursal Los Azulejos. La evidencia OSINT recopilada revela una densidad anómala de incidentes delictivos (robos) no mitigados, lo cual, en conjunto con la violación a la NOM-001-STPS-2008 documentada el 07 de febrero, configura un Ambiente Inseguro. Esta condición no solo vulnera la integridad de los consumidores, sino que expone a la entidad a riesgos legales y reputacionales sistémicos. Nuestra opinión no contiene salvedades en relación con esta cuestión, pero se enfatiza por su gravedad operativa."
+
+Nota: 
+
+Hay Conexión con la NOM-035 (Factores de Riesgo Psicosocial)
+Aunque empezamos por la 001, los robos y el ambiente de hostigamiento caen directamente en la NOM-035.
+•	Un ambiente donde el cliente (y el trabajador) teme ser robado o agredido por el propio personal de seguridad es un entorno de violencia laboral y social.
+•	La activación del "Código 5" falso genera un evento traumático severo, no solo para el cliente, sino para los empleados que son forzados a participar en una simulación de emergencia.
+Conclusión: Sí, el ambiente es objetivamente inseguro. La recurrencia de robos sin medidas de mitigación visibles constituye una negligencia en el mantenimiento de las "condiciones de seguridad" que exige la NOM-001. y pro lo mismo se peude decir que hay un ** Dictamen de Auditoría de Cumplimiento ** NEGATIVO, debido a que hay pasivos que no consideran, no solo legales por cliente sino por el efecto en empelados y factires de riesgo para seguros.
+
 
 ## Caso de Uso
 
