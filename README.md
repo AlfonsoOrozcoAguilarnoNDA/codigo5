@@ -1,6 +1,10 @@
 # Framework de Análisis Estadístico y Legal 
 * Incluye Modelo de Probabilidad Condicional (Bayesiano), mismo rigor que se usa en pruebas de ADN o en detección de fraudes financieros complejos
 
+# DMCA NOTICE 
+* DMCA & Fair Use Notice in the final part of this document / DMCA & Aviso de Uso Legítimo / en la parte final del documento
+
+
 ## Caso: Código 5 / Mystery Shopper / Riesgo Operativo
 
 **Autor:** Alfonso Orozco Aguilar  
@@ -496,6 +500,32 @@ Al utilizar este software, el usuario acepta y reconoce que:
 4. **Prohibición de Simulación:** Queda estrictamente prohibido el uso de este código para la creación de reportes falsos, simulación de pruebas o cualquier actividad que constituya un delito de falsedad ante la autoridad.
 
 **ESTE SOFTWARE SE ENTREGA "TAL CUAL" (AS IS), SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD O APTITUD PARA UN PROPÓSITO PARTICULAR.**
+---
+---
+
+## ⚖️ DMCA & Fair Use Notice / Aviso de Uso Legítimo
+
+### [EN] English Version
+**Content Policy & Legal Protection**
+This repository contains technical documentation, forensic analysis, and evidence related to ongoing administrative and legal procedures before Mexican authorities (PROFECO, SSC, CONAPRED). 
+
+1. **Purpose:** This material is published for purposes of **criticism, comment, news reporting, teaching, scholarship, and research**, which constitutes "Fair Use" under Section 107 of the U.S. Copyright Act.
+2. **Public Interest:** The information herein concerns public safety, consumer rights, and corporate governance. As such, it is protected as a matter of public interest and transparency.
+3. **No Infringement Intended:** All trademarks, logos, and brand names mentioned are the property of their respective owners. Their use here is purely nominative and descriptive for the purpose of documenting a factual event.
+4. **Anti-Censorship:** Any attempt to use DMCA takedown notices to suppress documented evidence of administrative or criminal irregularities will be considered an abuse of the DMCA process and may result in legal counter-action for "Misrepresentation" under Section 512(f) of the DMCA.
+
+---
+
+### [ES] Versión en Español
+**Política de Contenido y Protección Legal**
+Este repositorio contiene documentación técnica, análisis forense y evidencia vinculada a procedimientos administrativos y legales vigentes ante autoridades mexicanas (PROFECO, SSC, CONAPRED).
+
+1. **Propósito:** Este material se publica con fines de **crítica, comentario, reporte de noticias, enseñanza, investigación y auditoría social**, lo cual constituye un "Uso Legítimo" (Fair Use) y está protegido por el derecho a la libertad de expresión y de información.
+2. **Interés Público:** La información vertida versa sobre seguridad ciudadana, derechos del consumidor y gobernanza corporativa, siendo de alto interés público para la sociedad.
+3. **Sin Ánimo de Infracción:** Todas las marcas, logotipos y nombres comerciales mencionados son propiedad de sus respectivos dueños. Su uso en este repositorio es puramente nominativo y descriptivo para efectos de documentar hechos reales.
+4. **Fundamento Constitucional:** La difusión de esta información se ampara en los **Artículos 6º y 7º de la Constitución Política de los Estados Unidos Mexicanos**. Cualquier intento de censura mediante reclamos de derechos de autor para ocultar irregularidades documentadas será interpretado como una obstrucción a la justicia y un abuso de los mecanismos de reporte digital.
+
+---
 ---
 ## 🧪 Notas del Autor
 
