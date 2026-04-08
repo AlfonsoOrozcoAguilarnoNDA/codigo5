@@ -468,4 +468,36 @@ Al utilizar este software, el usuario acepta y reconoce que:
 
 **ESTE SOFTWARE SE ENTREGA "TAL CUAL" (AS IS), SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD O APTITUD PARA UN PROPÓSITO PARTICULAR.**
 ---
+## 🧪 Notas del Autor
+
+Este proyecto forma parte de Un reporte de gestión de crisis por une vento el 7 de febrero 2026 en Sanborns de los azulejos. 
+
+Mi enfoque es la **Programación Real**: la que sobrevive a bloqueos de oficina y servidores compartidos, así como la primacía de la realidad y continuidad de negocio como principios rectores.
+
+Mi nombre es **Alfonso Orozco Aguilar**, mexicano, programador desde 1991. En 2026 compagino mi carrera como DevOps/Senior Dev con la licenciatura en Contaduría. 
+
+### Áreas de Especialización Transversal:
+* **Auditoría Forense:** Aplicación de análisis sistémico para la detección de irregularidades.
+* **Due Diligence Técnico-Contable:** Evaluación integral de activos, pasivos y procesos operativos.
+* **Gobernanza y Control Interno:** Diseño y supervisión de marcos de cumplimiento (Frameworks de cumplimiento).
+* **Riesgo Tecnológico:** Evaluación de vulnerabilidades en infraestructura cloud y continuidad de negocio.
+
+Si falla la arquitectura, el sistema colapsa.
+
+Mis análisis aplican principios de:
+
+* NIF/IFRS/NIA (contabilidad y auditoría)
+* DevOps y arquitectura de sistemas
+* Análisis de riesgo tecnológico y contable
+---
+
+## ✍️ Acerca del Autor
+* **Facebook:** [Perfil de Alfonso Orozco Aguilar](https://www.facebook.com/alfonso.orozcoaguilar)
+* **Sitio Web:** [alfonsoorozcoaguilar.com](https://alfonsoorozcoaguilar.com)
+* **Sitio Web:** [vibecodingmexico.com](https://vibecodingmexico.com)
+
+**Nota sobre LinkedIn:** Por razones de seguridad profesional (scraping de IA, suplantación de identidad), no mantengo presencia en LinkedIn. Facebook ofrece controles granulares más robustos.
+
+
+---
 *Este repositorio se mantendrá público hasta la resolución de todos los procesos administrativos y judiciales activos.*
