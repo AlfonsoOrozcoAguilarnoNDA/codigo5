@@ -1,9 +1,11 @@
 # Framework de Análisis Estadístico y Legal 
 * Incluye Modelo de Probabilidad Condicional (Bayesiano), mismo rigor que se usa en pruebas de ADN o en detección de fraudes financieros complejos
 
-# DMCA NOTICE 
-* DMCA & Fair Use Notice in the final part of this document / DMCA & Aviso de Uso Legítimo / en la parte final del documento
+### ⚖️ DMCA NOTICE / AVISO LEGAL DE USO LEGÍTIMO
 
+**[EN]** This repository contains documentation of public interest for purposes of criticism, research, and legal reporting. A full **DMCA & Fair Use Notice** is available in the final section of this document. Any attempt to suppress this information via bad-faith takedown notices may result in legal counter-action under Section 512(f) of the DMCA.
+
+**[ES]** Este repositorio contiene documentación de interés público con fines de crítica, investigación y denuncia legal. El **Aviso de DMCA y Uso Legítimo** completo se encuentra en la parte final de este documento. Cualquier intento de suprimir esta información mediante notificaciones de baja de mala fe será interpretado como una obstrucción a los procesos de justicia administrativa en curso.
 
 ## Caso: Código 5 / Mystery Shopper / Riesgo Operativo
 
