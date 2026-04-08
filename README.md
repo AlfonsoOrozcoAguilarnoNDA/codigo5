@@ -239,6 +239,19 @@ Este análisis es **robusto** porque el resultado es
 | **Resumen Ejecutivo KASH** | Análisis estratégico de alta jerarquía diseñado para la **Dirección General** y el Comité de Riesgos. Sintetiza los hallazgos críticos bajo la norma **NIA 265**. | [📥 Descargar PDF](https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/Analisis_KASH_Ejecutivo.pdf) |
 | **Análisis KASH - Versión Máster** | Documento técnico detallado para el **Punto P06.1** del expediente máster. Incluye evidencia forense, análisis bayesiano y cumplimiento de las **NIA 230, 240, 315 y 500**. | [📥 Descargar PDF](https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/Analisis_KASH_Formalizado.pdf) | En preparacion.
 
+*Elaborado por: Alfonso Orozco Aguilar *
+---
+# 📂 Expediente de Auditoría Forense: Caso Madero 4
+**Incidente:** 07/02/2026 | **Metodología:** NIA & COSO | **Estatus:** Opinión Adversa
+
+## 📋 Resumen del Dictamen
+Se documenta el colapso sistémico de los 5 componentes del control interno en la sucursal Sanborns Los Azulejos. La investigación confirma una ruptura de la Unidad de Mando y el uso de protocolos de coacción ("Código 5")
+
+### 📥 Descargas Técnicas
+* 📄 **[Análisis COSO Completo (PDF)](./ANALISIS_COSO.pdf)**: Evaluación técnica de la degradación del ambiente de control, riesgos y monitoreo.
+* 🔍 **Certeza Estadística**: 99.99% mediante Análisis Bayesiano sobre la simulación de emergencia.
+
+*Elaborado por: Alfonso Orozco Aguilar *
 ---
 
 ### 🔗 Enlaces Directos para Integración
