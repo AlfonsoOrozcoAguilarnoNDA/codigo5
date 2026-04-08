@@ -1,4 +1,6 @@
 # Framework de Análisis Estadístico y Legal 
+# Incluye Modelo de Probabilidad Condicional (Bayesiano), mismo rigor que se usa en pruebas de ADN o en detección de fraudes financieros complejos
+
 ## Caso: Código 5 / Mystery Shopper / Riesgo Operativo
 
 **Autor:** Alfonso Orozco Aguilar  
@@ -104,6 +106,34 @@ Para garantizar la seguridad, replicabilidad y portabilidad, el framework sigue 
 ## 🚀 Replicabilidad
 El lenguaje y stack se eligen deliberadamente por su ubicuidad. Cualquier auditor social puede desplegar esta herramienta en entornos locales o servidores estándar en cuestión de minutos.
 
+---
+---
+
+## 📊 Análisis de Probabilidad Condicional: Modelo Bayesiano "Código 5"
+
+Para determinar si el despliegue del 7 de febrero de 2026 fue una emergencia real o una **simulación coordinada de hostigamiento**, se aplicó un modelo de probabilidad condicional basado en el **Teorema de Bayes**. Este análisis permite ponderar la evidencia de manera objetiva, eliminando sesgos narrativos y enfocándose en la frecuencia de anomalías observadas.
+
+### 1. Metodología de Selección (Las 13+ Anomalías Evidentes)
+De un universo de **24 anomalías conductuales documentadas**, se seleccionaron las variables más evidentes y menos subjetivas para este cálculo. El objetivo es evitar cualquier "sesgo de confirmación", utilizando criterios que incluso un auditor externo conservador validaría como inusuales:
+
+* **Evidencia Estadística Masiva (#14):** El hecho de que aproximadamente **55 personas NO evacuaran** la zona durante una supuesta "emergencia" constituye una prueba estadística de que el entorno no percibía una amenaza real.
+* **Sincronía Temporal (#8):** El despliegue de sujetos exactamente **4 segundos** después de la alerta sugiere una coordinación táctica imposible de lograr mediante una respuesta orgánica de seguridad (Likelihood Ratio de 200).
+* **Protocolo de Identificación (#21):** Sujetos enfocados visualmente en identificar a la operadora y en las manos del operador de cámara, en lugar de neutralizar la supuesta "amenaza".
+* **Sincronía de Obstrucción (#19):** Interposición física de personal regular (mesera) en el segundo exacto en que se verbaliza el conflicto, con 0 segundos de diferencia.
+
+### 2. Cálculo de Certeza Matemática (Inferencia Bayesiana)
+El cálculo se realizó mediante el producto de los **Likelihood Ratios (LR)** asignados a cada anomalía. Incluso utilizando un *Prior* (probabilidad inicial) sumamente conservador del **5%**, los resultados son contundentes:
+
+* **Con las Top 9 anomalías críticas:** La probabilidad de que el evento NO fuera una simulación es menor a 1 entre un billón ($>99.9999999999999\%$).
+* **Con el modelo completo (24 anomalías):** El resultado es estadísticamente **indistinguible de la certeza absoluta (100%)**.
+
+### 3. Transparencia y Replicabilidad (Código Abierto)
+Este análisis es auditable y replicable. La metodología es transparente y puede ser verificada por académicos o peritos en las siguientes fuentes:
+
+* **Calculadora PHP (Simplificada):** Documento técnico entregado a la SSC disponible en [alfonsoorozco.com/codigo5.docx](https://alfonsoorozco.com/codigo5.docx).
+* **Repositorio de Desarrollo:** Versiones modificadas y scripts de cálculo avanzado en [GitHub: AlfonsoOrozcoAguilarnoNDA/codigo5](https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/).
+
+> **Conclusión de Auditoría:** La robustez del análisis demuestra que el resultado no depende de ponderaciones exactas. Incluso reduciendo los
 ---
 
 ## Denuncias activas
