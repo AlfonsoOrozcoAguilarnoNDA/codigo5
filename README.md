@@ -195,7 +195,6 @@ Este análisis es auditable y replicable. La metodología es transparente y pued
 * **Máster:** `https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/KIMI_REPORTE_DE_PROBLEMAS_KASH.pdf`
 
 ---
----
 
 ### ⚖️ Impacto en el Gobierno Corporativo: Debilidad Material (NIA 265)
 
@@ -220,7 +219,7 @@ Este análisis no emana de un cliente convencional, sino de un profesional con *
 Mientras el personal de Sanborns (presumiblemente ex-policías con vicios de entrenamiento de "fuerza de choque") concentraba toda su capacidad de coacción en hostigar al acompañante femenino del auditor, cometieron un error de seguridad elemental que puso en riesgo a terceros:
 
 * **Abandono de Perímetro:** Por enfocarse en un hostigamiento ilegal derivado de una falsa alarma ("Código 5"), los elementos de seguridad **abandonaron la vigilancia del flanco derecho del primer piso de la sucursal**.
-* **Vulnerabilidad Masiva de Civiles:** Se estima que entre **40 y 50 comensales** quedaron en situación de desprotección total ante cualquier amenaza real externa. La "seguridad" de la casa estaba ocupada intimidando a una mujer y a un cliente histórico mientras ignoraba la integridad del resto del establecimiento. Su intento de "bloquear" mis movimientos me daba paso libre a la derecha que a su vez tenía dos salidas. Era imposible una contención real con ese descuido que ponía en riesgo a por lo menos 40-50 clientes sentados junto al área donde asignan mes, cercana al elevador. Literalmente error básico.
+* **Vulnerabilidad Masiva de Civiles:** Se estima que entre **40 y 50 comensales** quedaron en situación de desprotección total ante cualquier amenaza real externa. La "seguridad" de la casa estaba ocupada intimidando a una mujer y a un cliente histórico mientras ignoraba la integridad del resto del establecimiento. Su intento de "bloquear" mis movimientos me daba paso libre a la derecha que a su vez tenía dos salidas. Era imposible una contención real con ese descuido que ponía en riesgo a por lo menos 40-50 clientes sentados junto al área donde asignan mesa, cercana al elevador. Literalmente error básico.
 * **Decisión Táctica de No Intervención:** Debido a que no hubo contacto físico, por técnicas de desescalamiento aplicadas por el aduitor y no por el personal de Sanborns, El auditor tomó la decisión consciente de **no neutralizar a los tres agresores inmediatos** —pese a contar con la capacidad física y técnica para hacerlo, además de derecho legal a legítima defensa— con el único fin de evitar un escenario de **sangre, lesiones graves y pánico masivo**, priorizando la seguridad de los civiles que Sanborns dejó desprotegidos por su incompetencia.
 * **Esto se encuentra amparado por grabaciones de video y audio de dos personas, siendo cuatro los afectados, incluyendo al auditor** 
 
