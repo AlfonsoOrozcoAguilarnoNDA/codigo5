@@ -186,6 +186,52 @@ Este análisis es auditable y replicable. La metodología es transparente y pued
 - **Dependencias:** Cero. Sin librerías externas ni frameworks (Anti-NPM).
 - **Ejecución:** Compatible con cualquier entorno LAMP/LEMP estándar. Los cálculos son auditables línea por línea para peritajes técnicos.
 ---
+## 🧮 Arquitectura de Procesamiento Bayesiano (parte del Framework Código 5)
+
+El núcleo analítico de esta auditoría forense reside en la aplicación del **Teorema de Bayes** para evaluar la hipótesis de **Simulación Coordinada (H1)** frente a la hipótesis de un **Evento de Emergencia Real (H0)**. 
+
+Este framework permite desplazar la carga de la prueba hacia la contraparte, transformando observaciones cualitativas en una métrica cuantitativa de certeza técnica.
+
+### 📄 Documento Probatorio Central
+El algoritmo y la tabla maestra de anomalías se encuentran documentados en el siguiente archivo, el cual constituye el material pericial original entregado a las autoridades de la **SSC y PROFECO** a mediados de febrero de 2026:
+
+👉 **[Descargar Documento Maestro: codigo5.docx (GitHub Raw)](https://raw.githubusercontent.com/AlfonsoOrozcoAguilarnoNDA/codigo5/main/codigo5.docx)**
+**[Descargar Documento Espejo: codigo5.docx (Raw)](https://alfonsoorozco.com/codigo5.docx)** Este es el emntregado a las autoridades.
+
+---
+
+### 1. Metodología de Cálculo: Likelihood Ratio (LR)
+
+El sistema procesa **24 anomalías conductuales y operativas**. A cada una se le asigna un valor **LR** (Razón de Verosimilitud) basado en el consenso de seis modelos de IA de tres jurisdicciones (US, EU, CA). El LR representa cuántas veces es más probable observar dicha anomalía en una simulación que en una emergencia real.
+
+#### Top 9 Anomalías de Alto Impacto
+| ID | Anomalía | Impacto (LR) | Evidencia Crítica |
+|:---|:---|:---:|:---|
+| #14 | 55 personas NO evacuaron | 150 | Prueba estadística de ausencia de amenaza. |
+| #08 | Timing 4 seg post-alerta | 200 | Coordinación incompatible con la casualidad. |
+| #19 | Sincronía "matar" + obstrucción | 100 | Coincidencia temporal exacta (0 seg). |
+| #13 | Obstrucción por mesera | 100 | Personal regular integrado al protocolo táctico. |
+| #16 | Mesera sin temor | 60 | Conducta incompatible con perfil de "amenaza". |
+| #10 | Protocolo "manos" amateur | 50 | Identificación de formación en seguridad privada. |
+| #22 | Abandono de posición de garante | 50 | Gerente huye; omisión dolosa (Art. 15 CP). |
+| #18 | Paciencia extrema (100 min) | 50 | Perfil incompatible con intención agresiva. |
+| #17 | 100 min sin servicio | 30 | Mora administrativa y violación contractual. |
+
+---
+
+### 2. Formulación Matemática
+
+El cálculo de la **Probabilidad Posterior** se rige por la fórmula de probabilidad condicional, asegurando que el resultado sea resistente a variaciones en los pesos individuales:
+
+$$P(H|E) = \frac{LR_{total} \times P(H)}{(LR_{total} \times P(H)) + (1 - P(H))}$$
+
+* **Prior $P(H)$:** Se utiliza un valor ultra-conservador de **0.05 (5%)**, asumiendo una baja probabilidad inicial de colusión corporativa.
+* **LR Total:** Producto acumulado de los LRs de las 24 anomalías ($1.4 \times 10^{24}$).
+
+### 3. Robustez y Replicabilidad (Open Methodology)
+
+Este análisis es **robusto** porque el resultado es
+---
 ### 📂 Documentación del Análisis KASH
 
 | Documento | Descripción | Enlace de Acceso (RAW) |
