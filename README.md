@@ -163,6 +163,18 @@ El lenguaje y stack se eligen deliberadamente por su ubicuidad. Cualquier audito
 
 * **Ejecutivo:** `https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/Analisis_KASH_Ejecutivo.pdf`
 * **Máster:** `https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/raw/main/KIMI_REPORTE_DE_PROBLEMAS_KASH.pdf`
+
+---
+---
+
+### ⚖️ Impacto en el Gobierno Corporativo: Debilidad Material (NIA 265)
+
+La naturaleza y recurrencia de las fallas documentadas en la sucursal Madero 4 trascienden el error operativo para configurarse como una **Debilidad Material en el Control Interno**, según los lineamientos de la **Norma Internacional de Auditoría 265 (NIA 265)**. Al existir evidencia pública de una estructura paralela, simulación laboral y uso de protocolos de emergencia para coacción, se rompe la presunción de un entorno de control efectivo. 
+
+Este hallazgo es de **notificación obligatoria** por parte del Auditor Externo de Grupo Carso hacia el Comité de Auditoría, toda vez que la omisión de supervisión y la elusión de controles por parte de la gerencia local representan un riesgo sistémico de incorrección material y fraude (**NIA 240**).
+
+Una vez que esta información reside en un repositorio de acceso público con trazabilidad forense, pierde la categoría de "incidente aislado" y se convierte en un **Hecho Posterior (NIA 560)** que debe ser evaluado por cualquier firma de auditoría de las *Big Four* a cargo de la cuenta. Ignorar este dictamen expondría a los auditores externos a una **responsabilidad profesional por negligencia** en la valoración de riesgos, ya que la vulneración de la gobernanza corporativa es absoluta cuando la dirección no puede garantizar la integridad física y patrimonial de sus clientes ni la legalidad de su fuerza de seguridad.
+
 ---
 ### 📂 Hallazgo 02-B: Peritaje de Riesgo Táctico y Amenaza de Escalada de Violencia
 
