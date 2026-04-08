@@ -436,5 +436,24 @@ Este repositorio constituye un Compendio de Evidencia Pericial vinculado a proce
 > 2. Bajo el **Art. 7º**, se garantiza la inviolabilidad de difundir información técnica y profesional a través de medios digitales, prohibiendo cualquier tipo de censura previa.
 > Al existir procesos administrativos recibidos por la autoridad como procedentes, y/o vigentes (PROFECO/SSC), este material constituye un ejercicio de **transparencia ciudadana** y **auditoría social** sobre hechos que la autoridad ya ha calificado como procedentes.
 ---
+# Licencia y Exención de Responsabilidad
 
+Este software se distribuye bajo la licencia **GNU General Public License v3.0 (GPL-3.0)**. 
+Puedes copiar, distribuir y modificar el software siempre que mantengas la misma licencia.
+
+---
+
+## ⚖️ EXENCIÓN DE RESPONSABILIDAD FORENSE (FORENSIC DISCLAIMER)
+
+El "Framework Código 5" es una herramienta diseñada para la **consolidación de evidencia, organización de auditorías sociales y cumplimiento de la NIA 230/265**. 
+
+Al utilizar este software, el usuario acepta y reconoce que:
+
+1. **Integridad de la Evidencia:** El autor (Alfonso Orozco Aguilar) no se hace responsable por la veracidad, integridad o legalidad de los datos, audios, videos o testimonios ingresados por terceros en sus propias instancias locales del framework.
+2. **Uso Legal:** El usuario es el único responsable de garantizar que el uso de esta herramienta y la recolección de evidencia asociada cumplan con las leyes de privacidad, protección de datos personales y códigos procesales penales de su jurisdicción (en México, cumplimiento del Art. 222 del CNPP).
+3. **Inexistencia de Relación Profesional:** El uso de este framework no constituye una relación de consultoría, peritaje o auditoría formal por parte del autor hacia el usuario. Los resultados generados por los scripts de análisis (Bayesiano, Riesgo, etc.) son probabilísticos y deben ser validados por un perito certificado en la materia.
+4. **Prohibición de Simulación:** Queda estrictamente prohibido el uso de este código para la creación de reportes falsos, simulación de pruebas o cualquier actividad que constituya un delito de falsedad ante la autoridad.
+
+**ESTE SOFTWARE SE ENTREGA "TAL CUAL" (AS IS), SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD O APTITUD PARA UN PROPÓSITO PARTICULAR.**
+---
 *Este repositorio se mantendrá público hasta la resolución de todos los procesos administrativos y judiciales activos.*
