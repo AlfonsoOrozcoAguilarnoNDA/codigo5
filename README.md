@@ -30,10 +30,10 @@ Todo el proceso documentado en este framework es la **respuesta técnica a una s
 
 Este repositorio constiene herramientas de Código libre GPL para documentar NIAs y puntos específicos de control de un reporte master de auditoría COHA. El framework permite la organización en un solo documento resultado, de fragmentos que nor malmente viven en su propio word.
 
-1 - Cédula de Observaciones y Hallazgos de Auditoría (COHA)
-2 - Informe de Deficiencias Significativas de Control Interno (bajo NIA 265): Es el término técnico exacto cuando un auditor comunica a la administración (en este caso, a Grupo Carso) que sus controles no funcionan.
-3 - Cédula Sumaria de Papeles de Trabajo: Si el PHP consolida los 80-x puntos de control, actúa como una "Sumaria" que agrupa las evidencias individuales (los audios, videos y fotos) en un solo cuerpo legal.
-4 - Dictamen de Auditoría de Cumplimiento: Como estás revisando si cumplen con la NOM-251, la Ley de Seguridad Privada y la Ley de Protección al Consumidor, el resultado es un "Dictamen de Cumplimiento".
+- 1 - Cédula de Observaciones y Hallazgos de Auditoría (COHA)
+- 2 - Informe de Deficiencias Significativas de Control Interno (bajo NIA 265): Es el término técnico exacto cuando un auditor comunica a la administración (en este caso, a Grupo Carso) que sus controles no funcionan.
+- 3 - Cédula Sumaria de Papeles de Trabajo: Si el PHP consolida los 80-x puntos de control, actúa como una "Sumaria" que agrupa las evidencias individuales (los audios, videos y fotos) en un solo cuerpo legal.
+- 4 - Dictamen de Auditoría de Cumplimiento: Como estás revisando si cumplen con la NOM-251, la Ley de Seguridad Privada y la Ley de Protección al Consumidor, el resultado es un "Dictamen de Cumplimiento".
 
 ## Caso de Uso
 
