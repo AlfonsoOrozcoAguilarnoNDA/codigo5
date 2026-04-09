@@ -56,6 +56,7 @@ Aunque empezamos por la 001, los robos y el ambiente de hostigamiento caen direc
 •	Un ambiente donde el cliente (y el trabajador) teme ser robado o agredido por el propio personal de seguridad es un entorno de violencia laboral y social.
 •	La activación del "Código 5" falso genera un evento traumático severo, no solo para el cliente, sino para los empleados que son forzados a participar en una simulación de emergencia.
 Conclusión: Sí, el ambiente es objetivamente inseguro. La recurrencia de robos sin medidas de mitigación visibles constituye una negligencia en el mantenimiento de las "condiciones de seguridad" que exige la NOM-001. y pro lo mismo se peude decir que hay un 
+
 ** Dictamen de Auditoría de Cumplimiento NEGATIVO **
 
 Debido a que hay pasivos que no consideran, no solo legales por cliente sino por el efecto en empleados y factores de riesgo para seguros e IMSS.
@@ -63,7 +64,7 @@ Debido a que hay pasivos que no consideran, no solo legales por cliente sino por
 
 ## Caso de Uso
 
-El auditor Social, en este caso Alfonso Orozco Aguilar, cliente de 34 años de antiguedad en Sanborns de los azulejos de madero 4 cdmx, le tocó vivir el 7 de febrero 2026 a las 16:20 horas un incidente de completa falta de gobernanza y control de Grupo Carso. El incidente tenía también puntos que por articulo 222 de Código nacional de Procedimientos Penales (Mexico) era necesario reportar a las autoridades y organizar infomración en ejs de presente pasado y futuro, mas aspectos auditoria, NIA violadas, problemas de anélisis bayesiano, consenso Jurídico de IA sobre contratos y anáslis sde sentimientos con tensores , Rag y similares, hizo necesario generar este framework.
+El auditor Social, en este caso Alfonso Orozco Aguilar, cliente de 34 años de antiguedad en Sanborns de los azulejos de madero 4 cdmx, le tocó vivir el 7 de febrero 2026 a las 18:20 horas un incidente de completa falta de gobernanza y control de Grupo Carso. El incidente tenía también puntos que por articulo 222 de Código nacional de Procedimientos Penales (Mexico) era necesario reportar a las autoridades y organizar infomración en ejs de presente pasado y futuro, mas aspectos auditoria, NIA violadas, problemas de anélisis bayesiano, consenso Jurídico de IA sobre contratos y anáslis sde sentimientos con tensores , Rag y similares, hizo necesario generar este framework.
 
 En medio de la documentación se hicieron vistas cruzadas de Mistery Shopper que mostraron anomalías de higiene y areas de oportunidad tanto de marketing como de capacitación para escuelas, por lo cual se hizo un desglose en 250 slides de powerpoint, mas análisis de caldiad de comida y oportunidades kash.
 
