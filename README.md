@@ -2,7 +2,13 @@
 # Framework de Análisis Estadístico y Legal 
 * Incluye Modelo de Probabilidad Condicional (Bayesiano), mismo rigor que se usa en pruebas de ADN o en detección de fraudes financieros complejos
 
-* El dia 7 de febrero 2026 a las 18:15, 4 clientes frecuentes del Sanborns de los Azulejos, esperamos que nos tomaran la orden durante 1 hora y 40 minutos. No nos tomaron la orden, a una dama del grupo le dijeron que no nos iban a atender  y que nos fueramos. Al pedir hablar con el gerente, de manera  tramquila, como muestra grabacion de audio y video, en piso dieron la orden "CODIGO 5" que significa en la ciudad de Mexico llamar a la policía. Eso no era necesario y es delito llamar en falso a los servicios de emergencia, así que documentamos lo sucedido para la Secretaría de seguridad Ciudadana (policía), y esperamos datos para lvantar querella. se documentan los incidentes en base a las acciones NIA 330 de respuesta ante crisis.
+* El dia 7 de febrero 2026 a las 18:15, varios clientes frecuentes del Sanborns de los Azulejos en Ciudad de México, esperamos que nos tomaran la orden durante 1 hora y 40 minutos. No nos tomaron la orden, a una dama del grupo le dijeron que no nos iban a atender  y que nos fueramos. Al pedir hablar con el gerente, de manera  tramquila, como muestra grabacion de audio y video, en piso dieron la orden "CODIGO 5" que significa en la ciudad de Mexico llamar a la policía. Eso no era necesario y es delito llamar en falso a los servicios de emergencia, así que documentamos lo sucedido para la Secretaría de seguridad Ciudadana (policía), y esperamos datos para levantar querella. se documentan los incidentes en base a las acciones NIA 330 de respuesta ante crisis.
+
+### ⚖️ DMCA NOTICE / AVISO LEGAL DE USO LEGÍTIMO
+
+**[EN]** This repository contains documentation of public interest for purposes of criticism, research, and legal reporting. A full **DMCA & Fair Use Notice** is available in the final section of this document. Any attempt to suppress this information via bad-faith takedown notices may result in legal counter-action under Section 512(f) of the DMCA.
+
+**[ES]** Este repositorio contiene documentación de interés público con fines de crítica, investigación y denuncia legal. El **Aviso de DMCA y Uso Legítimo** completo se encuentra en la parte final de este documento. Cualquier intento de suprimir esta información mediante notificaciones de baja de mala fe será interpretado como una obstrucción a los procesos de justicia administrativa en curso.
 
 ## ⚖️ Fundamentos Técnicos y Legales del Incidente
 
@@ -26,12 +32,6 @@ La ausencia de evacuación, alarma o interrupción del consumo por parte de los 
 
 **ESTE FRAMEWORK NACE PARA FACILITAR A TERCEROS EL DOCUMENTAR DE MANERA FORMAL EN PREPARACION AL REPORTE DE AUDITORIA DE CUMPLIMIENTO INDEPENDIENTE EN BASE A NORMAS NIF/NIIF Y NIA CONTABLES Y EMITIR LOS REPORTES RESPECTIVOS**
 ****
-
-### ⚖️ DMCA NOTICE / AVISO LEGAL DE USO LEGÍTIMO
-
-**[EN]** This repository contains documentation of public interest for purposes of criticism, research, and legal reporting. A full **DMCA & Fair Use Notice** is available in the final section of this document. Any attempt to suppress this information via bad-faith takedown notices may result in legal counter-action under Section 512(f) of the DMCA.
-
-**[ES]** Este repositorio contiene documentación de interés público con fines de crítica, investigación y denuncia legal. El **Aviso de DMCA y Uso Legítimo** completo se encuentra en la parte final de este documento. Cualquier intento de suprimir esta información mediante notificaciones de baja de mala fe será interpretado como una obstrucción a los procesos de justicia administrativa en curso.
 
 ## Caso: Código 5 / Mystery Shopper / Riesgo Operativo
 
