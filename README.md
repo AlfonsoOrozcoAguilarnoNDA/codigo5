@@ -196,6 +196,36 @@ Este análisis es auditable y replicable. La metodología es transparente y pued
 ![Respuesta Sanborns](imagenes/respuestasanborns.png)
 
 ---
+## 🛠️ Framework de Captura y Gestión (v1.0)
+
+Para la construcción de este expediente de más de 300 folios, se desarrolló un framework simplificado en **PHP 8.x / MariaDB**, optimizado para la eficiencia operativa y la colaboración masiva.
+
+### Stack Tecnológico:
+* **Backend:** PHP (Procedural para máxima compatibilidad y velocidad).
+* **Frontend:** Bootstrap 4.6.2 & FontAwesome 5.15.4.
+* **Database:** MariaDB / MySQL (Estructura de tabla única).
+
+### Componentes del Framework:
+1. **[framework/codigo5.php](./framework/codigo5.php):** Interfaz principal de captura y seguimiento de los 77 puntos.
+2. **[framework/guardarhtml.php](./framework/guardarhtml.php):** Motor de renderizado para exportación masiva.
+3. **[framework/config-sample.php](./framework/config-sample.php):** Plantilla de configuración de entorno.
+4. **[framework/database.sql](./framework/database.sql):** Esquema de base de datos de alta integridad.
+
+   Falta mecanismo para dar de alta en la tabla. Yo usé exportación de excel en base al índice maestro.
+   
+### Desafíos de Escalabilidad y Exportación:
+Este framework fue sometido a pruebas de estrés para generar el reporte de **350 fojas**. Se documentan las siguientes consideraciones para entornos **Linux**:
+* **Gestión de Buffer:** Optimización del flujo de salida para evitar el agotamiento de la `memory_limit` de PHP en exportaciones de gran tamaño.
+* **Tiempos de Ejecución:** Ajustes necesarios en `max_execution_time` para procesos de renderizado HTML complejos.
+* **Interoperabilidad:** El sistema genera un HTML limpio que permite la conversión a `.docx` preservando la jerarquía de la **NIA 230**, superando las limitaciones comunes de los editores de texto convencionales al manejar archivos de alta densidad.
+
+### Filosofía de Diseño:
+* **Colaboración Distribuida:** Permite que múltiples auditores trabajen simultáneamente desde distintas estaciones.
+* **Simplicidad:** Se omitió deliberadamente un sistema de usuarios (ACL) para agilizar la captura en el periodo crítico de los 60 días.
+* **Futura Integración:** Se proyecta la consolidación del framework en un archivo único (Single-File App) para facilitar su despliegue portátil.
+
+> **Nota Técnica:** Este núcleo de captura es independiente de las herramientas de **Análisis Bayesiano** y procesamiento de tensores citadas en el dictamen forense.
+---
 
 ## Módulos de Auditoría (PHP Soberano)
 
