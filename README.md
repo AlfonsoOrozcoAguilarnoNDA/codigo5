@@ -79,20 +79,19 @@ Nota:
 
 Hay Conexión con la NOM-035 (Factores de Riesgo Psicosocial)
 Aunque empezamos por la 001, los robos y el ambiente de hostigamiento caen directamente en la NOM-035.
-•	Un ambiente donde el cliente (y el trabajador) teme ser robado o agredido por el propio personal de seguridad es un entorno de violencia laboral y social.
-•	La activación del "Código 5" falso genera un evento traumático severo, no solo para el cliente, sino para los empleados que son forzados a participar en una simulación de emergencia.
-Conclusión: Sí, el ambiente es objetivamente inseguro. La recurrencia de robos sin medidas de mitigación visibles constituye una negligencia en el mantenimiento de las "condiciones de seguridad" que exige la NOM-001. y pro lo mismo se peude decir que hay un 
+* Un ambiente donde el cliente (y el trabajador) teme ser robado o agredido por el propio personal de seguridad es un entorno de violencia laboral y social.
+*	La activación del "Código 5" falso genera un evento traumático severo, no solo para el cliente, sino para los empleados que son forzados a participar en una simulación de emergencia.
+*	Conclusión: Sí, el ambiente es objetivamente inseguro. La recurrencia de robos sin medidas de mitigación visibles constituye una negligencia en el mantenimiento de las "condiciones de seguridad" que exige la NOM-001, y por lo mismo se peude decir que hay un 
 
-** Dictamen de Auditoría de Cumplimiento NEGATIVO **
+**Dictamen de Auditoría de Cumplimiento NEGATIVO**
 
 Debido a que hay pasivos que no consideran, no solo legales por cliente sino por el efecto en empleados y factores de riesgo para seguros e IMSS.
-
 
 ## Caso de Uso
 
 El auditor Social, en este caso Alfonso Orozco Aguilar, cliente de 34 años de antiguedad en Sanborns de los azulejos de madero 4 cdmx, le tocó vivir el 7 de febrero 2026 a las 18:20 horas un incidente de completa falta de gobernanza y control de Grupo Carso. El incidente tenía también puntos que por articulo 222 de Código nacional de Procedimientos Penales (Mexico) era necesario reportar a las autoridades y organizar infomración en ejs de presente pasado y futuro, mas aspectos auditoria, NIA violadas, problemas de análisis bayesiano, consenso Jurídico de IA sobre contratos y análisis de sentimientos con tensores , Rag y similares, hizo necesario generar este framework.
 
-En medio de la documentación se hicieron vistas cruzadas de Mistery Shopper que mostraron anomalías de higiene y areas de oportunidad tanto de marketing como de capacitación para escuelas, por lo cual se hizo un desglose en 250 slides de powerpoint, mas análisis de calidad de comida y oportunidades kash, y una seie con gráficas de puntos finos , con algunos documentos adicionales de carácter didáctico.
+En medio de la documentación se hicieron vistas cruzadas de Mistery Shopper que mostraron anomalías de higiene y areas de oportunidad tanto de marketing como de capacitación para escuelas, por lo cual se hizo un desglose en 250 slides de powerpoint, mas análisis de calidad de comida y oportunidades kash, y una serie extra de diapositivas con gráficas de puntos finos , con algunos documentos adicionales de carácter didáctico.
 
 ## Consideraciones.
 
@@ -100,11 +99,11 @@ En COHA: El sistema software que yo hice y no publico aquí genera la Trazabilid
 
 **Nota:** Se busca ser auxiliar en Metodología de Auditoría 4.0: Convergencia de modelos probabilísticos y modelos de lenguaje de gran escala (LLMs) para la eliminación de sesgos en el peritaje.
 
-Sobre el Mystery Shopper: Creando áreas del software similar a FAQs puede permitirse la Auditoría de Seguimiento (Follow-up), lo que prueba la "reincidencia" o "falta de remediación" (un concepto clave en NIAs). Solo que esto lo uso en trabajos de seguminento en práctica privada, por lo cual no voy a poner el dato aquí.
+Sobre el Mystery Shopper: Creando áreas del software similar a FAQs puede permitirse la Auditoría de Seguimiento (Follow-up), lo que prueba la "reincidencia" o "falta de remediación" (un concepto clave en NIAs). Solo que esto lo uso en trabajos de seguimiento en práctica privada, por lo cual no voy a poner el dato aquí.
 
 ## El objetivo del framework codigo5
 
-El objetivo es la Consolidación Forense de Pruebas para garantizar la integridad de la cadena de custodia informativa, in depnder de localización en word o Excel.
+El objetivo es el facilitar la Consolidación Forense de Pruebas para garantizar la integridad de la cadena de custodia informativa, in depnder de localización en word o Excel.
 
 Se busca con el software principal preparar un concentrado de localización de información.
 
