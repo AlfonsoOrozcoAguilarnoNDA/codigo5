@@ -81,6 +81,44 @@ Se adjuntan algunos scripts de análisis bayesiano y similares.
 
 ---
 
+# 📑 Reporte Maestro de Auditoría: Caso CÓDIGO 5
+
+## 🚀 Release v1.0-60días | Hito de Cierre (8 de Abril)
+
+Este lanzamiento marca el cumplimiento del plazo crítico de **60 días naturales** tras el incidente del 7 de febrero de 2026 en Sanborns «Los Azulejos». Se deposita la evidencia sustantiva y el cuerpo técnico de la auditoría bajo los estándares de la **NIA 230**.
+
+### 📄 Documentación Central
+* **[P01.2_BORRADOR_DE_TRABAJO_60_DIAS_20260408v2.pdf](./P01.2_BORRADOR_DE_TRABAJO_60_DIAS_20260408v2.pdf):** Cuerpo íntegro de la auditoría (331 páginas). Contiene los 77 hallazgos documentados, el análisis de control interno (Marco COSO) y la fundamentación normativa.
+* **[INDICE_MAESTRO_Caso_Codigo5_v1.2.pdf](./INDICE_MAESTRO_Caso_Codigo5_v1.2.pdf):** Arquitectura documental y hoja de ruta de la evidencia (Papeles de Trabajo / PT).
+
+### ⚖️ Nota de Exención y Reserva (Hacia la Versión 2.0)
+Se hace reserva de los siguientes materiales para la **Versión 2.0** (estimada para el cierre del 2T-2026):
+* Series de diapositivas ejecutivas (PPTs).
+* Anexos gráficos y presentaciones de campo.
+* Análisis comparativo de mercado "Cordon Bleu".
+* Estudio detallado de sentimientos y tensores por IA.
+* Integración y manual del framewpork usado para concentrar los datos de control (77 puntos) y dificultades de exportación en documentos de mas de 300 folios.
+
+Dichos materiales se encuentran actualmente en proceso de **limpieza de datos, anonimización y auditoría de privacidad**. Se establece que su ausencia en este release inicial no afecta la validez ni la integridad de los hallazgos sustantivos ya presentados.
+
+### 🛡️ Transparencia e Institucionalidad
+Para fines de verificación, este repositorio incluye imágenes que acreditan la existencia de los folios y expedientes ante:
+1. **PROFECO** (Folio 0002822-2026)
+2. **SSC CDMX** mencionado en documento
+3. **CONAPRED**
+
+**Aviso de Cumplimiento:** Se publican exclusivamente las carátulas o acuses que demuestran el inicio de los procedimientos. El contenido específico de las denuncias y las actuaciones procesales se mantiene bajo reserva técnica para **evitar cualquier interpretación de obstrucción de la justicia** y respetar los tiempos legales de las autoridades receptoras.
+
+### 📜 Licencia y Distribución
+Los documentos CONTABLES de Este proyecto se distribuye bajo la licencia **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**. pero el rpositorio y codigo es GPL 3.0
+
+> *Usted es libre de compartir y distribuir este material. Nos beneficia como comunidad y protege la integridad de la investigación.*
+
+---
+**Auditor Responsable:** Alfonso Orozco Aguilar  
+**Fecha de Corte:** 8 de abril de 2026 | CDMX, México.
+---
+
 Este repositorio contiene el análisis estadístico, forense y de riesgo derivado de dos visitas documentadas a Sanborns Los Azulejos (Av. Francisco I. Madero No. 4, Centro Histórico, CDMX):
 
 | Visita | Fecha | Tipo | Resultado |
