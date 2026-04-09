@@ -1,3 +1,4 @@
+![Logo Código 5](./logocodigo5.jpg)
 # Framework de Análisis Estadístico y Legal 
 * Incluye Modelo de Probabilidad Condicional (Bayesiano), mismo rigor que se usa en pruebas de ADN o en detección de fraudes financieros complejos
 
