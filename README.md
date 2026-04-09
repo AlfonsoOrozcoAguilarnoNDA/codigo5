@@ -615,9 +615,9 @@ A continuación, se presentan los testigos visuales que sustentan la trazabilida
 ### 🔬 2. Análisis Forense y Convergencia IA
 *Muestras del procesamiento de datos, análisis de espectro de audio y validación multimodelo.*
 
-| Análisis de Ondas de Audio | Procesamiento de Video | Validación Multimodelo (Gemini) |
+| Muestra de la mesa | Procesamiento de Video | Validación Multimodelo (Gemini) |
 | :---: | :---: | :---: |
-| ![Análisis Audio](./analisis%20audio.png) | ![Análisis Video](./analisisvideo2.png) | ![Validación Gemini](./gemini.png) |
+| ![Foto 18:15](5_ Foto mesa_sin_comida.jpeg) | ![Análisis Video](./analisisvideo2.png) | ![Validación Gemini](./gemini.png) |
 
 | Interfaz Speak AI (0s) | Interfaz Speak AI (29s) | Trazabilidad WhatsApp |
 | :---: | :---: | :---: |
