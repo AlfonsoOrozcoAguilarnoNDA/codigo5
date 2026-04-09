@@ -97,7 +97,7 @@ Se hace reserva de los siguientes materiales para la **Versión 2.0** (estimada 
 * Anexos gráficos y presentaciones de campo.
 * Análisis comparativo de mercado "Cordon Bleu".
 * Estudio detallado de sentimientos y tensores por IA.
-* Integración y manual del framewpork usado para concentrar los datos de control (77 puntos) y dificultades de exportación en documentos de mas de 300 folios.
+* Integración y manual del framework usado para concentrar los datos de control (77 puntos) y dificultades de exportación en documentos de mas de 300 folios.
 
 Dichos materiales se encuentran actualmente en proceso de **limpieza de datos, anonimización y auditoría de privacidad**. Se establece que su ausencia en este release inicial no afecta la validez ni la integridad de los hallazgos sustantivos ya presentados.
 
