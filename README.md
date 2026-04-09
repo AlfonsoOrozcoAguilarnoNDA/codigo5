@@ -600,6 +600,30 @@ Al utilizar este software, el usuario acepta y reconoce que:
 
 **ESTE SOFTWARE SE ENTREGA "TAL CUAL" (AS IS), SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD O APTITUD PARA UN PROPÓSITO PARTICULAR.**
 ---
+
+## 🖼️ Galería de Evidencia y Acreditación Institucional
+
+A continuación, se presentan los testigos visuales que sustentan la trazabilidad de esta auditoría y el inicio de los procedimientos legales.
+
+### 🏛️ 1. Acuses y Recepción Oficial
+*Evidencia de que el caso ya reside en las esferas gubernamentales correspondientes.*
+
+| PROFECO (Folio Digital) | CONAPRED (Sello de Recepción) | SSC CDMX (Entrega Física) |
+| :---: | :---: | :---: |
+| ![Folio Profeco](./folio%20profeco.png) | ![Sello CONAPRED](./2_%20foto_sello_conapred.jpg) | ![Entrega SSC](./entrega_a_ssc.jpeg) |
+
+### 🔬 2. Análisis Forense y Convergencia IA
+*Muestras del procesamiento de datos, análisis de espectro de audio y validación multimodelo.*
+
+| Análisis de Ondas de Audio | Procesamiento de Video | Validación Multimodelo (Gemini) |
+| :---: | :---: | :---: |
+| ![Análisis Audio](./analisis%20audio.png) | ![Análisis Video](./analisisvideo2.png) | ![Validación Gemini](./gemini.png) |
+
+| Interfaz Speak AI (0s) | Interfaz Speak AI (29s) | Trazabilidad WhatsApp |
+| :---: | :---: | :---: |
+| ![Speak AI 0s](./speakai0.png) | ![Speak AI 29s](./speak29.png) | ![WhatsApp](./whatsapp3.png) |
+
+> **Nota de Seguridad:** Las imágenes han sido seleccionadas para demostrar la existencia del análisis sin revelar datos sensibles de terceros ni entorpecer las investigaciones en curso (Reserva de Ley).
 ---
 
 ## ⚖️ DMCA & Fair Use Notice / Aviso de Uso Legítimo
