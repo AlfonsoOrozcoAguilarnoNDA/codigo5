@@ -621,7 +621,7 @@ A continuación, se presentan los testigos visuales que sustentan la trazabilida
 
 | Muestra de la mesa | Procesamiento de Video | Validación Multimodelo (Gemini) |
 | :---: | :---: | :---: |
-| ![Foto 18:15](5_ Foto mesa_sin_comida.jpeg) | ![Análisis Video](./analisisvideo2.png) | ![Validación Gemini](./gemini.png) |
+| ![Foto 18:15](5_Foto mesa_sin_comida.jpeg) | ![Análisis Video](./analisisvideo2.png) | ![Validación Gemini](./gemini.png) |
 
 | Interfaz Speak AI (0s) | Interfaz Speak AI (29s) | Trazabilidad WhatsApp |
 | :---: | :---: | :---: |
