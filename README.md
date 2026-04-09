@@ -2,6 +2,31 @@
 # Framework de Análisis Estadístico y Legal 
 * Incluye Modelo de Probabilidad Condicional (Bayesiano), mismo rigor que se usa en pruebas de ADN o en detección de fraudes financieros complejos
 
+* El dia 7 de febrero 2026 a las 18:15, 4 clientes frecuentes del Sanborns de los Azulejos, esperamos que nos tomaran la orden durante 1 hora y 40 minutos. No nos tomaron la orden, a una dama del grupo le dijeron que no nos iban a atender  y que nos fueramos. Al pedir hablar con el gerente, de manera  tramquila, como muestra grabacion de audio y video, en piso dieron la orden "CODIGO 5" que significa en la ciudad de Mexico llamar a la policía. Eso no era necesario y es delito llamar en falso a los servicios de emergencia, así que documentamos lo sucedido para la Secretaría de seguridad Ciudadana (policía), y esperamos datos para lvantar querella. se documentan los incidentes en base a las acciones NIA 330 de respuesta ante crisis.
+
+## ⚖️ Fundamentos Técnicos y Legales del Incidente
+
+### 1. La NIA 330 como Marco de Trabajo (Respuesta ante el Riesgo)
+Este repositorio y la documentación contenida no son simples registros de una queja, sino la aplicación estricta de la **Norma Internacional de Auditoría 330**. 
+* **Evidencia Suficiente y Adecuada:** Ante el riesgo detectado (hostigamiento y simulación de emergencia), se procedió a la obtención de evidencia documental, sonora y visual.
+* **Pruebas de Control:** El audio y video recolectados no constituyen material anecdótico; son **pruebas de control** que demuestran la ruptura de los protocolos de servicio y seguridad de la entidad.
+
+### 2. El Delito de Falsa Alarma (Código Penal CDMX)
+La activación del **"Código 5"** sin una causa justificada trasciende la mala práctica comercial para entrar en el ámbito de lo ilícito:
+* **Art. 211 Quáter del CPCDMX:** Establece sanciones por el uso indebido de los servicios de emergencia. 
+* **Simulación para Intimidación:** El "Código 5" implica la movilización de recursos públicos (policía). Utilizarlo como herramienta de coacción contra un cliente pacífico constituye un abuso de autoridad y una falsedad de declaración ante la autoridad administrativa.
+
+### 3. Principio de Primacía de la Realidad
+En la evaluación de los hechos, la evidencia conductual del entorno es definitiva:
+> ** Consumimos en el psio inferior, y después en iotra sucursal a tres cuadras de distancia, por compromiso previo a las 19:00.
+> **"La inacción de 45-55 comensales presentes confirma la inexistencia de la amenaza invocada, validando la tesis de
+> simulación."**
+
+La ausencia de evacuación, alarma o interrupción del consumo por parte de los testigos independientes desmiente la narrativa de peligro de Sanborns y confirma que el despliegue de seguridad fue un **montaje selectivo** dirigido al cliente.
+
+**ESTE FRAMEWORK NACE PARA FACILITAR A TERCEROS EL DOCUMENTAR DE MANERA FORMAL EN PREPARACION AL REPORTE DE AUDITORIA DE CUMPLIMIENTO INDEPENDIENTE EN BASE A NORMAS NIF/NIIF Y NIA CONTABLES Y EMITIR LOS REPORTES RESPECTIVOS**
+****
+
 ### ⚖️ DMCA NOTICE / AVISO LEGAL DE USO LEGÍTIMO
 
 **[EN]** This repository contains documentation of public interest for purposes of criticism, research, and legal reporting. A full **DMCA & Fair Use Notice** is available in the final section of this document. Any attempt to suppress this information via bad-faith takedown notices may result in legal counter-action under Section 512(f) of the DMCA.
