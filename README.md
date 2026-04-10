@@ -1,5 +1,5 @@
 ![Logo Código 5](./logocodigo5.jpg)
-# Framework de Análisis Estadístico y Legal 
+# Código 5 : Framework de Análisis Estadístico y Legal 
 * Incluye Modelo de Probabilidad Condicional (Bayesiano), mismo rigor que se usa en pruebas de ADN o en detección de fraudes financieros complejos
 
 * El dia 7 de febrero 2026 a las 18:20, varios clientes frecuentes del Sanborns de los Azulejos en Ciudad de México, esperamos que nos tomaran la orden durante 1 hora y 40 minutos. No nos tomaron la orden, a una dama del grupo le dijeron que no nos iban a atender  y que nos fueramos. Al pedir hablar con el gerente, de manera  tranquila (como muestran grabaciones de audio y video), en piso dieron la orden "CODIGO 5" que significa en la ciudad de Mexico llamar a la policía. Eso no era necesario y es delito llamar en falso a los servicios de emergencia, así que documentamos lo sucedido para la Secretaría de seguridad Ciudadana (policía), y esperamos datos para levantar querella. se documentan los incidentes en base a las acciones NIA 330 de respuesta ante crisis, y su registro formal en base a la metodología de auditoría de cumplimiento operativo (no financiero), y que es de interés público en el caso particular.
