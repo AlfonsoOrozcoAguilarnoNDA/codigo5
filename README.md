@@ -140,7 +140,7 @@ Para fines de verificación, este repositorio incluye imágenes que acreditan la
 **Aviso de Cumplimiento:** Se publican exclusivamente las carátulas o acuses que demuestran el inicio de los procedimientos. El contenido específico de las denuncias y las actuaciones procesales se mantiene bajo reserva técnica para **evitar cualquier interpretación de obstrucción de la justicia** y respetar los tiempos legales de las autoridades receptoras.
 
 ### 📜 Licencia y Distribución
-Los documentos CONTABLES de Este proyecto se distribuye bajo la licencia **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**. pero el rpositorio y codigo es GPL 3.0
+Los documentos CONTABLES de Este proyecto se distribuyen bajo la licencia **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**. pero el repositorio y codigo es GPL 3.0
 
 > *Usted es libre de compartir y distribuir este material. Nos beneficia como comunidad y protege la integridad de la investigación.*
 
