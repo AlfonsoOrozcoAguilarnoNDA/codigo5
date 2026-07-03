@@ -25,7 +25,7 @@ La activación del **"Código 5"** sin una causa justificada trasciende la mala 
 
 ### 3. Principio de Primacía de la Realidad
 En la evaluación de los hechos, la evidencia conductual del entorno es definitiva:
-> ** Consumimos en el psio inferior, y después en iotra sucursal a tres cuadras de distancia, por compromiso previo a las 19:00.
+> ** Consumimos en el piso inferior, y después en iotra sucursal a tres cuadras de distancia, por compromiso previo a las 19:00.
 > **"La inacción de 45-55 comensales presentes confirma la inexistencia de la amenaza invocada, validando la tesis de
 > simulación."**
 
