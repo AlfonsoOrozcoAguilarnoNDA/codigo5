@@ -70,7 +70,7 @@ Este repositorio constiene herramientas de Código libre GPL para documentar NIA
 - 3 - Cédula Sumaria de Papeles de Trabajo: Si el PHP consolida los 80-x puntos de control, actúa como una "Sumaria" que agrupa las evidencias individuales (los audios, videos y fotos) en un solo cuerpo legal.
 - 4 - Dictamen de Auditoría de Cumplimiento: Como se está revisando si se cumplen una norma, en este caso con la NOM-251 (higiene), la Ley de Seguridad Privada y la Ley de Protección al Consumidor, el resultado es un "Dictamen de Cumplimiento".
 
-- Esa revisión sale de manera secundaria en mistery shopper de 7 de marzo. Sin embargo, el entorno de robos encontrados en reseñas de Google, información pública OSINT, pone en riesgo a los empleados mismos y a los clientes, y el cerco por personal no identificado esdemanera transitiva riesgo para empleados, cliente afectado (auditor) y los 55 elementos de consenso.
+- Esa revisión sale de manera secundaria en mistery shopper de 7 de marzo. Sin embargo, el entorno de robos encontrados en reseñas de Google, información pública OSINT, pone en riesgo a los empleados mismos y a los clientes, y el cerco por personal no identificado es demanera transitiva riesgo para empleados, cliente afectado (auditor) y los 55 elementos de consenso.
 
 - PÁRRAFO DE ÉNFASIS (NIA 706)
 "Llamamos la atención sobre la Nota de Hallazgo relativa a la seguridad física en la sucursal Los Azulejos. La evidencia OSINT recopilada revela una densidad anómala de incidentes delictivos (robos) no mitigados, lo cual, en conjunto con la violación a la NOM-001-STPS-2008 documentada el 07 de febrero, configura un Ambiente Inseguro. Esta condición no solo vulnera la integridad de los consumidores, sino que expone a la entidad a riesgos legales y reputacionales sistémicos. Nuestra opinión no contiene salvedades en relación con esta cuestión, pero se enfatiza por su gravedad operativa."
@@ -207,7 +207,7 @@ Este análisis es auditable y replicable. La metodología es transparente y pued
 * **Calculadora PHP (Simplificada):** Documento técnico entregado a la SSC disponible en [alfonsoorozco.com/codigo5.docx](https://alfonsoorozco.com/codigo5.docx).
 * **Repositorio de Desarrollo:** Versiones modificadas y scripts de cálculo avanzado en [GitHub: AlfonsoOrozcoAguilarnoNDA/codigo5](https://github.com/AlfonsoOrozcoAguilarnoNDA/codigo5/).
 
-> **Conclusión de Auditoría:** La robustez del análisis demuestra que el resultado no depende de ponderaciones exactas. Incluso reduciendo los
+> **Conclusión de Auditoría:** La robustez del análisis demuestra que el resultado no depende de ponderaciones exactas. Incluso reduciendo los factores mas perjudiciales para el auditado.
 ---
 
 ## Denuncias activas
@@ -389,7 +389,7 @@ Mientras el personal de Sanborns (presumiblemente ex-policías con vicios de ent
 La negligencia de Sanborns al emplear personal mal entrenado, no identificado y propenso a la provocación creó un escenario donde cualquier respuesta defensiva habría sido legalmente **Legítima Defensa**, pero operativamente una tragedia evitable:
 
 * El código cinco no era procedente. El auditor salió y compró en planta baja pan dulce con factura nominativa, y después consumió en otra sucursal del mismo grupo a tres cuadras.
-* Llamar alas autordades  o fuerza pública no era procedente.
+* Llamar a las autordades  o fuerza pública no era procedente.
 * El uso de civiles , cerco físico no era necesario y era violatorio entre otras cosas al artículo 10 de la ley del consumidor, de la cual **el personal de mando era GARANTE** además de las otros leyes respectivas del código civil y penal, entre otros.
 * **Tentativa de Lesiones/Homicidio:** Provocada por la intimidación física y visual hacia los ocupantes de la mesa.
 * **Violación al Art. 16 Constitucional:** Actos de molestia sin mandamiento escrito ejecutados por personal cuya relación laboral es incierta (Caso CANTEC).
