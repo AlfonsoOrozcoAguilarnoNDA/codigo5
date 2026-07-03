@@ -710,7 +710,7 @@ Este repositorio contiene documentación técnica, análisis forense y evidencia
 ---
 ## 🧪 Notas del Autor
 
-Este proyecto forma parte de Un reporte de gestión de crisis por une vento el 7 de febrero 2026 en Sanborns de los azulejos. 
+Este proyecto forma parte de Un reporte de gestión de crisis por un evento el 7 de febrero 2026 en Sanborns de los azulejos. 
 
 Mi enfoque es la **Programación Real**: la que sobrevive a bloqueos de oficina y servidores compartidos, así como la primacía de la realidad y continuidad de negocio como principios rectores.
 
