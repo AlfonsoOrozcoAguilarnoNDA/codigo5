@@ -548,12 +548,12 @@ Se han depositado los dictámenes técnicos que validan la existencia de una rel
 
 | Archivo | Tesis Jurídica Central | Concepto Clave |
 | :--- | :--- | :--- |
-| [CLAUDE_17febrero.pdf](consenso/CLAUDE_17febrero_2026_compressed.pdf) | **Ruptura de Tracto Sucesivo** | Resolución unilateral injustificada tras 100 min de mora. |
-| [COHERE_17febrero.pdf](consenso/COHERE_17febrero_2026_compressed.pdf) | **Teoría de la Imprevisión y Mala Fe** | Invalidez de la defensa de "evento privado" por falta de notificación. |
-| [GEMINI_17febrero.pdf](consenso/GEMINI_17febrero_2026_compressed.pdf) | **Daño Moral y Dignidad** | El "Código 5" como hecho ilícito (Art. 1916 CCDMX). |
-| [GROK_17febrero.pdf](consenso/GROK_17febrero_2026_compressed.pdf) | **Dolo en la Resolución** | Simulación de "evento privado" para encubrir negativa de servicio. |
-| [COPILOT_17febrero.pdf](consenso/COPILOT_17febrero_2026_compressed.pdf) | **Perfeccionamiento y Mora** | Obligación de hacer nacida a las 16:35h con la asignación de mesa. |
-| [MISTRAL_17febrero.pdf](consenso/MISTRAL_17febrero_2026_compressed.pdf) | **Responsabilidad Objetiva** | El establecimiento responde civilmente por los actos de sus empleados. |
+| [CLAUDE_17febrero.pdf](blob/consenso/CLAUDE_17febrero_2026_compressed.pdf) | **Ruptura de Tracto Sucesivo** | Resolución unilateral injustificada tras 100 min de mora. |
+| [COHERE_17febrero.pdf](blob/consenso/COHERE_17febrero_2026_compressed.pdf) | **Teoría de la Imprevisión y Mala Fe** | Invalidez de la defensa de "evento privado" por falta de notificación. |
+| [GEMINI_17febrero.pdf](blob/consenso/GEMINI_17febrero_2026_compressed.pdf) | **Daño Moral y Dignidad** | El "Código 5" como hecho ilícito (Art. 1916 CCDMX). |
+| [GROK_17febrero.pdf](blob/consenso/GROK_17febrero_2026_compressed.pdf) | **Dolo en la Resolución** | Simulación de "evento privado" para encubrir negativa de servicio. |
+| [COPILOT_17febrero.pdf](blob/consenso/COPILOT_17febrero_2026_compressed.pdf) | **Perfeccionamiento y Mora** | Obligación de hacer nacida a las 16:35h con la asignación de mesa. |
+| [MISTRAL_17febrero.pdf](blob/consenso/MISTRAL_17febrero_2026_compressed.pdf) | **Responsabilidad Objetiva** | El establecimiento responde civilmente por los actos de sus empleados. |
 
 ### 4. Protocolo de Validación Transatlántica (Anti-Sesgo)
 Para garantizar que la aplicación de la doctrina **Aguilar Carvajal** no presenta sesgos geográficos o familiares, el modelo de razonamiento legal fue sometido a una validación cruzada en dos grupos de control:
